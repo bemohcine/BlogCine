@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Blog Cine</title>
-        <link>https://demo.stack.jimmycai.com/</link>
+        <link>https://bemohcine.github.io/BlogCine/</link>
         <description>Recent content on Blog Cine</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 03 Aug 2024 03:21:26 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 24 Sep 2023 11:15:17 +0700</lastBuildDate><atom:link href="https://bemohcine.github.io/BlogCine/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Hello World</title>
-        <link>https://demo.stack.jimmycai.com/p/hello-world/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/hello-world/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/hello-world/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
+        <guid>https://bemohcine.github.io/BlogCine/p/hello-world/</guid>
+        <description>&lt;img src="https://bemohcine.github.io/BlogCine/p/hello-world/cover.jpg" alt="Featured image of post Hello World" /&gt;&lt;p&gt;Welcome to Hugo theme Stack. This is your first post. Edit or delete it, then start writing!&lt;/p&gt;
 &lt;p&gt;For more information about this theme, check the documentation: &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://stack.jimmycai.com/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Want a site like this? Check out &lt;a class=&#34;link&#34; href=&#34;https://github.com/CaiJimmy/hugo-theme-stack-starter&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -25,1555 +25,12 @@
 </description>
         </item>
         <item>
-        <title>The Lab Kodi Addon [KodiTricks]</title>
-        <link>https://demo.stack.jimmycai.com/p/the-lab-kodi-addon-koditricks/</link>
-        <pubDate>Sat, 03 Aug 2024 03:21:26 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/the-lab-kodi-addon-koditricks/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/The-Lab-Kodi-Addon.webp" alt="Featured image of post The Lab Kodi Addon [KodiTricks]" /&gt;&lt;h1 id=&#34;the-lab-kodi-addon-install-step-by-step&#34;&gt;The Lab Kodi Addon [install Step-By-Step]
-&lt;/h1&gt;&lt;p&gt;Lab Kodi Addon Lab Kodi Addon is a complete addon that is located in The Lab Repository. It comes with a variety of categories and sections to select from. The categories comprise Movies and Television Shows, New Movies, New Episodes, 1-Click Movies, IPTV &amp;amp; Sports, and numerous others. The Lab has a playlist that can be played with one-click content, but it also can search for video sources. It is important to note that a service such as &lt;a class=&#34;link&#34; href=&#34;http://real-debrid.com/?id=3010885&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Real Debrid&lt;/a&gt; is highly recommended for use with this, as well as other add-ons.&lt;/p&gt;
-&lt;p&gt;In the guide below, we walk you through step-by-step instructions on how to install the Lab Kodi Addon.&lt;/p&gt;
-&lt;h2 id=&#34;sections-overview&#34;&gt;Sections Overview
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Films&lt;/li&gt;
-&lt;li&gt;Television Shows&lt;/li&gt;
-&lt;li&gt;My Movies&lt;/li&gt;
-&lt;li&gt;My Television Shows&lt;/li&gt;
-&lt;li&gt;News Movies&lt;/li&gt;
-&lt;li&gt;New Episodes&lt;/li&gt;
-&lt;li&gt;NEW VERSIONS of NightWing 1.&lt;/li&gt;
-&lt;li&gt;1 Click Movies and TV Shows&lt;/li&gt;
-&lt;li&gt;1 Click Movies&lt;/li&gt;
-&lt;li&gt;The Lab User TV and Movie Lists&lt;/li&gt;
-&lt;li&gt;IPTV &amp;amp; Sports&lt;/li&gt;
-&lt;li&gt;Retro Cartoons&lt;/li&gt;
-&lt;li&gt;Documentaries&lt;/li&gt;
-&lt;li&gt;Stand-up Comedy&lt;/li&gt;
-&lt;li&gt;People&lt;/li&gt;
-&lt;li&gt;Tools&lt;/li&gt;
-&lt;li&gt;Search&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;h2 id=&#34;how-do-you-install-the-lab-kodi-addon&#34;&gt;How do you install The Lab Kodi Addon?
-&lt;/h2&gt;&lt;h3 id=&#34;install-the-lab-repository&#34;&gt;Install the Lab Repository
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;You may have to &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/unknown-sources-on-kodi/&#34; &gt;make sure that you enable sources from unidentified sources&lt;/a&gt; to be available in the Kodi settings.&lt;/li&gt;
-&lt;li&gt;Enter Your Kodi settings and then open the file manager.&lt;/li&gt;
-&lt;li&gt;Choose &amp;ldquo;Add Source&amp;rdquo; and then click &amp;ldquo;None.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Type in the path &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://th3l48.github.io/TheLab/%22&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://th3l48.github.io/TheLab/&#34;&lt;/a&gt; and select &amp;ldquo;Done&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Click on the box to highlight it and then type in an appropriate name, such as &amp;ldquo;TheLab,&amp;rdquo; for this media source.&lt;/li&gt;
-&lt;li&gt;Click &amp;ldquo;OK.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Return to the main menu, and then select &amp;ldquo;Addons&amp;rdquo; on the left-hand side.&lt;/li&gt;
-&lt;li&gt;Start the browser for add-ons by clicking on the small box symbol on the upper left&lt;/li&gt;
-&lt;li&gt;Choose &amp;ldquo;Install from the ZIP file.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Respond to the warning message with &amp;ldquo;Yes.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Open the source &amp;ldquo;TheLab&amp;rdquo; and select the file &amp;ldquo;repository.thelab-x.x.x.zip.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Then, wait until a message appears that the repository was installed successfully.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If you&amp;rsquo;re not sure what to do to install the Kodi add-on, &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/set-up-kodi-addons-in-just-three-simple-steps/&#34; &gt;look up our tutorial including pictures&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;setup-the-lab-kodi-addon&#34;&gt;Setup The Lab Kodi Addon
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;In your browser, for add-ons, click &amp;ldquo;Install using repository.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Choose the one that is installed, &amp;ldquo;The Lab Repository.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Navigate to the category &amp;ldquo;Video add-ons&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Select the Lab and then click &amp;ldquo;Install&amp;rdquo; on the right side.&lt;/li&gt;
-&lt;li&gt;Verify the installation of dependencies by choosing &amp;ldquo;OK.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;It would help if you waited until you saw a notification that indicates the Kodi addon has been installed successfully.&lt;/li&gt;
-&lt;li&gt;Go back to the menu, and the Kodi addon will be available via the main menu.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;the-lab-screenshots&#34;&gt;The Lab: ScreenShots
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The Lab Kodi Addon Main Menu &lt;img src=&#34;https://demo.stack.jimmycai.com/images/The-Lab-Kodi-Addon-Main-Menu.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The Lab Kodi Addon Main Menu&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;the lab Movies Section &lt;img src=&#34;https://demo.stack.jimmycai.com/images/the-lab-Movies-Section.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;the lab Movies Section&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;The lab TV Shows Section &lt;img src=&#34;https://demo.stack.jimmycai.com/images/The-lab-TV-Shows-Section.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The lab TV Shows Section&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>Kodzi Kodi Addon [Installation Zip File From The Internet]</title>
-        <link>https://demo.stack.jimmycai.com/p/kodzi-kodi-addon/</link>
-        <pubDate>Fri, 02 Aug 2024 17:41:09 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/kodzi-kodi-addon/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/Kodzi-Kodi-Addon.webp" alt="Featured image of post Kodzi Kodi Addon [Installation Zip File From The Internet]" /&gt;&lt;h2 id=&#34;what-is-the-kodzi-kodi-add-on&#34;&gt;&lt;strong&gt;What is the KODZI Kodi Add-on?&lt;/strong&gt;
-&lt;/h2&gt;&lt;p&gt;Kodzi is an add-on designed to assist in installing Kodi Repositories and add-ons. Kodzi is distinct because it tries to download any extension using any URL on the internet, provided that the zip file is on the website page and in a click-able format (is it even a word?). What I am referring to is that if you click the zip and it downloads to your computer, Kodzi will attempt the download process and then install&lt;/p&gt;
-&lt;p&gt;Kodzi Kodi Addon is an extremely useful tool for installing Kodi extensions and repositories directly via the internet.&lt;/p&gt;
-&lt;p&gt;Usually, when you want to install a third-party Kodi addon, you must add a source to your file manager and then download the zip file. But some Kodi addons can only be installed via GitHub or download an archive file.&lt;/p&gt;
-&lt;p&gt;Within Kodzi&amp;rsquo;s Kodzi Kodi Addon, you can input a URL to an unzip file or look on GitHub for extensions. This addon is very useful since you don&amp;rsquo;t have to download zip files and upload these files into the Kodi media center. Check out our screenshots to understand how it works.&lt;/p&gt;
-&lt;p&gt;Each time you come across a Kodi plugin or repository that isn&amp;rsquo;t accessible through other sources, you could consider using Kodzi.&lt;/p&gt;
-&lt;p&gt;Updating 2022: This extension is currently not compatible in conjunction with Kodi 19 Matrix. It&amp;rsquo;s unlikely it ever will.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;h2 id=&#34;sections-overview&#34;&gt;Sections Overview
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Enter Website URL&lt;/li&gt;
-&lt;li&gt;Enter Lists URL&lt;/li&gt;
-&lt;li&gt;Search GitHub&lt;/li&gt;
-&lt;li&gt;Search History&lt;/li&gt;
-&lt;li&gt;Installed Addons&lt;/li&gt;
-&lt;li&gt;System Settings&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-do-i-install-the-kodzi-kodi-addon&#34;&gt;How do I install the Kodzi Kodi Addon?
-&lt;/h2&gt;&lt;h3 id=&#34;install-the-kodz-repository&#34;&gt;Install The Kodz Repository
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;You might need to &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/unknown-sources-on-kodi&#34; &gt;allow the unknown source&lt;/a&gt; within your Kodi settings.&lt;/li&gt;
-&lt;li&gt;You can go into your Kodi settings and then open the file manager.&lt;/li&gt;
-&lt;li&gt;Choose &amp;ldquo;Add source&amp;rdquo; and click on &amp;ldquo;None.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Type in the path &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://mrkodz.github.io/repo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://mrkodz.github.io/repo/&lt;/a&gt;&amp;rdquo; and select &amp;ldquo;Done&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Click on the box to highlight it and then type in initials like &amp;ldquo;MrKodz&amp;rdquo; for this media source&lt;/li&gt;
-&lt;li&gt;Click &amp;ldquo;OK.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Return to the main menu and select &amp;ldquo;Addons&amp;rdquo; on the left.&lt;/li&gt;
-&lt;li&gt;You can open the addon browser by clicking the little box icon at the top left&lt;/li&gt;
-&lt;li&gt;Choose &amp;ldquo;Install from the ZIP file.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Open the source &amp;ldquo;MrKodz&amp;rdquo; and select the file repository.thekodz.zip&lt;/li&gt;
-&lt;li&gt;You should wait until you see a notification that the repository was installed successfully.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If you&amp;rsquo;re unsure how to install the Kodi addon, &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/set-up-kodi-addons-in-just-three-simple-steps&#34; &gt;look up our guide with screenshots&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;install-kodzi-kodi-addon&#34;&gt;Install Kodzi Kodi Addon
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;In the browser for your addon, click &amp;ldquo;Install from repository.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Choose the available one, &amp;ldquo;The Kodz Repository.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Select the section &amp;ldquo;Program addons.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Choose Kodzi and then click &amp;ldquo;Install&amp;rdquo; on the bottom right&lt;/li&gt;
-&lt;li&gt;KODI 18 ONLY Make sure you have confirmed the installation of dependencies by choosing &amp;ldquo;OK.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;You should wait until you see a notification that indicates the Kodi addon was successfully installed.&lt;/li&gt;
-&lt;li&gt;Return to the main menu, and the Kodi addon will be available.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;install-a-zip-archive-using-kodzi&#34;&gt;Install a zip archive using Kodzi
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Begin your Kodzi Kodi extension and click &amp;ldquo;Enter Website URL.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Copy or paste the link to the zip file.&lt;/li&gt;
-&lt;li&gt;Be sure that the link ends with &amp;ldquo;.zip&amp;rdquo; and points to the Kodi extension or repository&lt;/li&gt;
-&lt;li&gt;Kodzi installs this zip file on your behalf, and then you can use the addon or repository like you normally&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Kodzi Kodi addon Main Menu&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/Kodzi-Kodi-addon-Main-Menu.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Kodzi Kodi addon Main Menu&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>How To Install Ghost Addon Kodi - KodiTricks</title>
-        <link>https://demo.stack.jimmycai.com/p/how-to-install-ghost-addon-kodi-koditricks/</link>
-        <pubDate>Fri, 02 Aug 2024 15:47:19 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/how-to-install-ghost-addon-kodi-koditricks/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/Ghost-Addon-Kodi.webp" alt="Featured image of post How To Install Ghost Addon Kodi - KodiTricks" /&gt;&lt;p&gt;The Ghost Kodi Addon is available again as the Shadow Fork in The Crew Repository. The addon is all-in-one and includes sections for TV programming, live television with sports replays, and much more. Ghost is scraping sources online for content, but it also provides playlists that can be accessed in one click and categories. It is recommended to use this addon with &lt;a class=&#34;link&#34; href=&#34;http://real-debrid.com/?id=3010885&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;the Real Debrid&lt;/a&gt; to get the most enjoyment. In the guide below, we&amp;rsquo;ll walk you through step-by-step instructions on installing Ghost Kodi Addon within a few minutes.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;h2 id=&#34;ghost-sections-overview&#34;&gt;Ghost: Sections Overview
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Movies&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;TV Shows&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Live TV&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Trakt&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Search&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Settings&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;is-ghost-safe&#34;&gt;Is Ghost Safe?
-&lt;/h2&gt;&lt;p&gt;Ghost addon is provided through one of the largest and most trusted third-party repositories, THE CREEW REPO. But, since it&amp;rsquo;s not listed in the Kodi repo&amp;rsquo;s official Kodi repo, we cannot be sure of its reliability. Additionally, we don&amp;rsquo;t have the necessary resources to determine whether or not the extension is secure.&lt;/p&gt;
-&lt;p&gt;In the meantime, I scanned the zip file for THE CREW REPO VirusTotal. The result is:&lt;/p&gt;
-&lt;p&gt;Legally, The situation is the same. It is difficult to tell whether the content available through Ghost is genuine because it pulls content from many sources. This makes it impossible for us to classify Ghosts as legitimate or unlicensed.&lt;/p&gt;
-&lt;p&gt;This leaves you with only one choice: to rely on a VPN to protect your device&amp;rsquo;s data and your information on the internet, such as IP address, location address, and so on. It will be kept secret.&lt;/p&gt;
-&lt;h2 id=&#34;how-do-i-set-up-and-install-ghost-kodi-addon&#34;&gt;How do I set up and install Ghost Kodi Addon?
-&lt;/h2&gt;&lt;h3 id=&#34;install-the-crew-repository&#34;&gt;Install The Crew Repository
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;You might need to &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/unknown-sources-on-kodi/&#34; &gt;ensure you enable sources from unknown sources&lt;/a&gt; within your Kodi settings.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Enter the settings of your Kodi settings and then open the file manager.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Choose &amp;ldquo;Add source&amp;rdquo; and click on &amp;ldquo;None.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Type in the path &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://team-crew.github.io/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://team-crew.github.io/&lt;/a&gt;&amp;rdquo; and select &amp;ldquo;Done&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Click on the box to highlight it and then type in an appropriate name, such as &amp;ldquo;the_crew&amp;rdquo; for this media source&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Click &amp;ldquo;OK.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Return to your main menu and select &amp;ldquo;Addons&amp;rdquo; on the left.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Start the browser for addons by clicking on the small box icon at the top left&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Choose &amp;ldquo;Install from the ZIP file.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Refuse to ignore the warning message by saying &amp;ldquo;Yes.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Open the source &amp;ldquo;the_crew&amp;rdquo; and select the file &amp;ldquo;repository.thecrew-x.x.x.zip&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Then, wait until a message appears that the repository was installed successfully.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If you&amp;rsquo;re unsure how to install the Kodi addon &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/set-up-kodi-addons-in-just-three-simple-steps/&#34; &gt;look up our tutorial, including images&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;install-ghost-kodi-addon&#34;&gt;Install Ghost Kodi Addon
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;In the addon browser, select &amp;ldquo;Install from repository.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Choose the option to install &amp;ldquo;The Crew Repo.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Select your account in the section &amp;ldquo;Video add-ons.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Choose Ghost (not Ghost TV) and click &amp;ldquo;Install&amp;rdquo; on the bottom right&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Check the proper installation for dependencies by clicking &amp;ldquo;OK.&amp;rdquo;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Then, wait until a message confirms the Kodi addon was installed successfully.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Go back into the main menu, and you will see that the Kodi extension will become available from there.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;how-to-use-ghost-kodi-addon&#34;&gt;How to Use Ghost Kodi Addon
-&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m not going to leave you to install Ghost! Here&amp;rsquo;s a quick overview of the procedure to make use of the addon:&lt;/p&gt;
-&lt;p&gt;To begin, click on the Addons tab on the Kodi home screen.&lt;/p&gt;
-&lt;p&gt;Go to the Video addons tab and start Ghost.&lt;/p&gt;
-&lt;p&gt;When you visit the Ghost home screen, you&amp;rsquo;ll find the following seven sections, as depicted in the picture below.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s begin by exploring the first part of the Ghost Kodi addon, Movies.&lt;/p&gt;
-&lt;p&gt;There are thirteen sub-sections within Movies, such as 1Click, Popular Movies, 3-D Movies, Genre, etc. If you&amp;rsquo;d like to browse movies by genre, go to Genre. Genre section. Movies will be divided into horror, action comedy, and many more.&lt;/p&gt;
-&lt;p&gt;This addon has an additional section for TV shows, also known as television Shows. Ghost Kodi addon.&lt;/p&gt;
-&lt;p&gt;Like the Movies category, the On The Air includes sub-folders such as 1Click, On The Air, Genre, Years, Networks, and more. Open the On The Air tab if you&amp;rsquo;d like to view the schedule of popular shows that are currently airing.&lt;/p&gt;
-&lt;p&gt;Why would you want the cable box when you can get IPTV using the Ghost Kodi addon? The first step is to go to the Live TV section on the addon&amp;rsquo;s home page.&lt;/p&gt;
-&lt;p&gt;There are 17 IPTV providers, including Daddy Live, &lt;strong&gt;Fluxus TV&lt;/strong&gt;, Music TV, and many more. In addition, there&amp;rsquo;s an entire new universe of channels and networks within each provider.&lt;/p&gt;
-&lt;p&gt;Trakt TV lets you track the latest, find, and share TV shows and films free! And you know what? It&amp;rsquo;s officially compatible with the Ghost Kodi addon. Open Trakt on Ghost&amp;rsquo;s homepage.&lt;/p&gt;
-&lt;p&gt;There are 17 sub-folders within it, including Movie Lists, TV Lists, TV Calendar series Watchlists, Progress, and so on. If you&amp;rsquo;re unsure about the information you&amp;rsquo;re seeking,, look at the various sub-folders of Trakt.&lt;/p&gt;
-&lt;p&gt;Are you in search of something particular? For example, a movie or show? Use the Search feature on Ghost to search for anything that comes to your mind fast.&lt;/p&gt;
-&lt;p&gt;Simply type in your search term like I entered mine and press OK to launch the search.&lt;/p&gt;
-&lt;p&gt;Let Ghost match your search query with its library to create the results list. After a few minutes, you&amp;rsquo;ll get the results of your search.&lt;/p&gt;
-&lt;p&gt;Finally, there are Settings.&lt;/p&gt;
-&lt;p&gt;The settings menu in Ghost allows you to tweak the various available options, including General filters, Trakt Debrid, and others. Be careful when altering every Ghost setting if you&amp;rsquo;re unfamiliar with Kodi third-party addons.&lt;/p&gt;
-&lt;h2 id=&#34;how-to-integrate-real-debrid-on-ghost-kodi-addon&#34;&gt;How to Integrate Real Debrid on Ghost Kodi Addon
-&lt;/h2&gt;&lt;p&gt;With the Real Debrid integrated, Ghost gets even more efficient. You&amp;rsquo;ll be able to to stream up to 4K quality content with premium links with no buffering, no loss of packets,, and crystal clear quality.&lt;/p&gt;
-&lt;p&gt;Premium services such as Real Debrid scrap high-quality links free of charge (but not for anyone) online. The fact is, Real Debrid is paid! Learn more about the pricing and plans at &lt;a class=&#34;link&#34; href=&#34;http://www.real-debrid.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;www.real-debrid.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like to know the basics of Real Debrid, refer to our article to [what you need to do to use Real Debrid on Kodi or FireStick. When you&amp;rsquo;re all done, follow the steps below to connect Real Debrid and Ghost:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Go to the Settings menu in Ghost Kodi. Ghost Kodi addon.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Click on the Debrid tab. Debrid tab.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Check that Enable debris service is turned on.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Open Re-auth Real-Debrid.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Ghost will erase any existing Real Debrid setup.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;On your smart device, open a web browser, go to &lt;a class=&#34;link&#34; href=&#34;https://real-debrid.com/device&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.real-debrid.com/device&lt;/a&gt;, and enter the code when prompted. Follow the on-screen instructions.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If you&amp;rsquo;re not signed in, real Debrid will ask you to input your account information.&lt;/p&gt;
-&lt;ol start=&#34;7&#34;&gt;
-&lt;li&gt;Once you&amp;rsquo;ve finished, you&amp;rsquo;ll receive an alert via the addon&amp;rsquo;s upper right-hand side of the page, &amp;ldquo;Ghost OK.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;That&amp;rsquo;s all there is to it! Now, you can get high-quality links for your favorite TV and film shows.&lt;/p&gt;
-&lt;h2 id=&#34;last-words&#34;&gt;Last Words
-&lt;/h2&gt;&lt;p&gt;This guide explains how to install the Ghost Kodi Addon in easy steps. Ghost is a one-stop solution to all your entertainment needs at no cost. From live TV to movie channels, this addon has something for every person.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>How To Install The Crew Addon Kodi 2024</title>
-        <link>https://demo.stack.jimmycai.com/p/how-to-install-the-crew-addon-kodi-2024/</link>
-        <pubDate>Fri, 02 Aug 2024 15:46:07 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/how-to-install-the-crew-addon-kodi-2024/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/Install-The-Crew-Addon.webp" alt="Featured image of post How To Install The Crew Addon Kodi 2024" /&gt;&lt;h2 id=&#34;what-is-crew-addon&#34;&gt;What is Crew Addon?
-&lt;/h2&gt;&lt;p&gt;The Crew Kodi addon lets you stream movies on demand, TV shows, IPTV, sports, programming for children, and much more. It is one of the most loved addons.&lt;/p&gt;
-&lt;p&gt;The Crew addon offers a variety of content categories, including a large collection of films and TV shows. It can fetch free links but is most effective when used with &lt;a class=&#34;link&#34; href=&#34;https://real-debrid.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Real Debrid&lt;/a&gt; and other premium hosts. The addon can be integrated into Trakt to stream your activities across devices and other applications.&lt;/p&gt;
-&lt;p&gt;To help with these and other reasons, The Crew is part of our list of &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/best-kodi-add-ons/&#34; &gt;Top Kodi Extensions&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Check out our tutorial below to learn how to set up The Crew Kodi extension step-by-step in only two minutes.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;h2 id=&#34;sections-overview&#34;&gt;Sections Overview:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Movies&lt;/li&gt;
-&lt;li&gt;TV Shows&lt;/li&gt;
-&lt;li&gt;Sports
-&lt;ul&gt;
-&lt;li&gt;NFL&lt;/li&gt;
-&lt;li&gt;NHL&lt;/li&gt;
-&lt;li&gt;NBA&lt;/li&gt;
-&lt;li&gt;MLB&lt;/li&gt;
-&lt;li&gt;NCAAF&lt;/li&gt;
-&lt;li&gt;NCAAB&lt;/li&gt;
-&lt;li&gt;UFC / MMA&lt;/li&gt;
-&lt;li&gt;WWE&lt;/li&gt;
-&lt;li&gt;Boxing&lt;/li&gt;
-&lt;li&gt;&amp;hellip;and more!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;IPTV&lt;/li&gt;
-&lt;li&gt;Kids&lt;/li&gt;
-&lt;li&gt;1 Clicks&lt;/li&gt;
-&lt;li&gt;CC Collections&lt;/li&gt;
-&lt;li&gt;Stand Up Comedy&lt;/li&gt;
-&lt;li&gt;Tools&lt;/li&gt;
-&lt;li&gt;Search&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-to-install-the-crew-kodi-addon&#34;&gt;How to install the Crew Kodi Addon
-&lt;/h2&gt;&lt;h3 id=&#34;install-the-crew-repository&#34;&gt;Install The Crew Repository
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;You might need to &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/unknown-sources-on-kodi/&#34; &gt;allow unidentified sources&lt;/a&gt; within your Kodi settings.&lt;/li&gt;
-&lt;li&gt;You can go into Your Kodi settings and then open the file manager.&lt;/li&gt;
-&lt;li&gt;Choose (&lt;strong&gt;Add source&lt;/strong&gt;) &amp;amp; click on &amp;ldquo;&lt;strong&gt;None&lt;/strong&gt;.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;in the path, type &amp;ldquo;&lt;a class=&#34;link&#34; href=&#34;https://team-crew.github.io/%22&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://team-crew.github.io/&#34;&lt;/a&gt; and select &amp;ldquo;Done&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Click on the box to highlight it and enter an appropriate name, such as &amp;ldquo;the_crew&amp;rdquo; for this media source&lt;/li&gt;
-&lt;li&gt;Click &amp;ldquo;OK&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Return to the main menu and click &amp;ldquo;Addons&amp;rdquo; on the left.&lt;/li&gt;
-&lt;li&gt;You can open the addon browser by clicking the small box symbol on the upper left&lt;/li&gt;
-&lt;li&gt;Choose &amp;ldquo;Install from a ZIP file.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Refuse to ignore the warning message &amp;ldquo;Yes.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Open on source &amp;ldquo;the_crew&amp;rdquo; and select the file &amp;ldquo;repository.thecrew-x.x.zip&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;It would help if you waited until you saw a notification that the repository was installed.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;If you&amp;rsquo;re unsure how to install the Kodi addon, &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/set-up-kodi-addons-in-just-three-simple-steps/&#34; &gt;our guide, which includes pictures&lt;/a&gt;, can help.&lt;/p&gt;
-&lt;h3 id=&#34;install-the-crew-kodi-addon&#34;&gt;Install The Crew Kodi Addon
-&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;In the addon browser, select &amp;ldquo;Install from repository.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Choose the one that is the option to install &amp;ldquo;The Crew Repo.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Select the tab &amp;ldquo;Video addons.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Choose The Crew and click on &amp;ldquo;Install&amp;rdquo; on the bottom right&lt;/li&gt;
-&lt;li&gt;Verify the installation of dependencies by clicking &amp;ldquo;OK.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;It would help if you waited until you saw a notification that indicates the Kodi addon has been installed successfully.&lt;/li&gt;
-&lt;li&gt;Return to the main menu, and the Kodi addon will be available.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;the-crew-screenshots&#34;&gt;The Crew ScreenShots:
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The Crew Kodi Addon Main Menu &lt;img src=&#34;https://demo.stack.jimmycai.com/images/The-Crew-Kodi-Addon-Main-Menu.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The Crew Kodi Addon Main Menu&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Movies Section &lt;img src=&#34;https://demo.stack.jimmycai.com/images/the-crew-Movies-Section.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Movies Section&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Sports Section &lt;img src=&#34;https://demo.stack.jimmycai.com/images/The-Crew-Sports-Section.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The-Crew-Sports-Section&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;how-do-i-unlock-the-adult-section&#34;&gt;How do I unlock the Adult Section?
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Launch the Crew Kodi Addon&lt;/li&gt;
-&lt;li&gt;Scroll to the bottom and click &amp;ldquo;Tools.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Select &amp;ldquo;Settings: Navigation&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Choose &amp;ldquo;Adult Play Ground&amp;rdquo; and enter your password &amp;ldquo;lol&amp;rdquo; (without quotation marks)&lt;/li&gt;
-&lt;li&gt;Revert to The Crew&amp;rsquo;s main menu in The Crew, and a new section will be created.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;how-can-i-solve-the-problem-of-the-crew-not-working-with-kodi-for-windows&#34;&gt;How can I solve the problem of the Crew not working with Kodi for Windows?
-&lt;/h2&gt;&lt;p&gt;It is possible that the Crew Kodi Addon does not work on Kodi on Windows and closes by displaying an error. For other platforms, the addon functions without issues.&lt;/p&gt;
-&lt;p&gt;The reason is that Windows&amp;rsquo; integrated security against viruses does not correctly identify a related file as malicious and remove it.&lt;/p&gt;
-&lt;p&gt;When you open Windows Security in the settings and click &amp;ldquo;Virus &amp;amp; threat protection,&amp;rdquo; you can see that a file has been classified as &amp;ldquo;Trojan: Python/MCCrash.B!MTB.&amp;rdquo;&lt;/p&gt;
-&lt;h3 id=&#34;use-these-suggestions-to-fix-the-issue&#34;&gt;Use these suggestions to fix the issue:
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;On Windows, look up &amp;ldquo;Windows Security&amp;rdquo; and click on the result at the top.&lt;/li&gt;
-&lt;li&gt;Select &amp;ldquo;Virus &amp;amp; threat protection.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;In&amp;quot;Current Threats,&amp;rdquo; select the &amp;ldquo;Current threats&amp;rdquo; section, and  choose &amp;ldquo;Protection history.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Look for a blocked file detected as &amp;ldquo;Trojan: Python/MCCrash.B!MTB.&amp;rdquo;&lt;/li&gt;
-&lt;li&gt;Select &amp;ldquo;Actions&amp;rdquo; and unblock the file.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Important: Before unblocking any file, ensure the timestamp you use is correct. Don&amp;rsquo;t block files that aren&amp;rsquo;t compatible with Kodi or specific addons. If you&amp;rsquo;re in doubt, don&amp;rsquo;t take any action in any way.&lt;/p&gt;
-&lt;h2 id=&#34;faqs&#34;&gt;FAQ&amp;rsquo;s
-&lt;/h2&gt;&lt;h3 id=&#34;what-are-the-risks-associated-with-the-crew-addon&#34;&gt;What are the risks associated with The Crew addon?
-&lt;/h3&gt;&lt;p&gt;The Crew addon is secure if the application is being used to stream content that is copyright-free and available within the open domain. If you watch copyrighted content, you could have legal issues. Use ExpressVPN to stay clear of legal issues.&lt;/p&gt;
-&lt;h3 id=&#34;where-can-i-download-the-crew-addon-on-firestick&#34;&gt;Where can I download The Crew addon on FireStick?
-&lt;/h3&gt;&lt;p&gt;The Crew addon is installed via the official source on FireStick. To install it, follow the steps in this article.&lt;/p&gt;
-&lt;h3 id=&#34;what-are-the-channels-you-can-watch-through-the-crew-kodi-addon&#34;&gt;What are the channels you can watch through the Crew Kodi addon?
-&lt;/h3&gt;&lt;p&gt;The Crew is a versatile addon that lets you view movies, shows, live TV, sports, and more.&lt;/p&gt;
-&lt;h2 id=&#34;last-words&#34;&gt;Last Words
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The Crew Kodi addon is ideal for streaming various media, such as films, shows, live TV, movies, and more. The addon&amp;rsquo;s scrapers pull content from multiple sources. It also allows &lt;a class=&#34;link&#34; href=&#34;https://real-debrid.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Real-Debrid sign-in &lt;/a&gt;and greater resolution of 1080p and 4K streams.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
-        <title>How do you set up Kodi Addons in just three simple steps?</title>
-        <link>https://demo.stack.jimmycai.com/p/set-up-kodi-addons-in-just-three-simple-steps/</link>
-        <pubDate>Fri, 02 Aug 2024 15:24:05 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/set-up-kodi-addons-in-just-three-simple-steps/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/set-up-Kodi-Addons-in-just-three-simple-steps.webp" alt="Featured image of post How do you set up Kodi Addons in just three simple steps?" /&gt;&lt;p&gt;In this step-by-step guide, we&amp;rsquo;ll show what you need to do in order to add Kodi addons in just three easy steps. This guide is relevant to all users who use Kodi 21 Omega Kodi 20 Nexus (up to Kodi 20.5) and Kodi 19 Matrix (up to Kodi 19.5). Whichever device you&amp;rsquo;re running Kodi on, the steps will be identical. The devices supported by Kodi comprise Amazon Fire TV Stick, Fire TV Cube, Nvidia Shield TV, Android TV boxes, smartphones, tablets, and mobile phones.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;h2 id=&#34;what-are-kodi-extensions&#34;&gt;What are Kodi extensions?
-&lt;/h2&gt;&lt;p&gt;Addons can enhance the Kodi experience dramatically by adding features for your media center. Certain addons can use to broadcast audio and video content on the internet or to maintain the integrity of your Kodi installation by eliminating any cache files and temporary ones.&lt;/p&gt;
-&lt;p&gt;There are two kinds of Kodi addons: official and unofficial. Official Kodi addons can be downloaded through the Kodi Addon Repository, which comes installed by default. The Kodi website has an&lt;a class=&#34;link&#34; href=&#34;https://kodi.wiki/view/Category:All_add-ons&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;inventory of all officially-approved addons&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Unofficial Kodi addons need to be installed by third-party repositories. This is done via the inclusion of sources into the file management program.&lt;/p&gt;
-&lt;h2 id=&#34;install-kodi-addons-in-three-easy-steps&#34;&gt;Install Kodi addons in three easy steps
-&lt;/h2&gt;&lt;p&gt;The majority of Kodi addons are installed with just three simple steps:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;In addition to a source&lt;/li&gt;
-&lt;li&gt;Setting up the repository&lt;/li&gt;
-&lt;li&gt;Installing the extension from the repository&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Before we tell you what you need to do in order to add Kodi addons, make sure you allow unknown sources to be enabled in the settings. With our &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/unknown-sources-on-kodi/&#34; &gt;guide, we will walk you through step-by-step&lt;/a&gt; steps to accomplish this.&lt;/p&gt;
-&lt;h2 id=&#34;how-do-you-include-a-source-into-kodi-the-file-manager&#34;&gt;How do you include a source into Kodi, the file manager
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Launch Kodi and click an icon for gear to access the options.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/01-Launch-Kodi-and-click-an-icon-for-gear-icon.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;01 Launch Kodi and click an icon for gear&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Start your file manager by clicking the folder icon.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/02-clicking-the-folder.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;02. Start your file manager by clicking the folder icon&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Select &amp;ldquo;Add Source&amp;rdquo; (may require a double-click on certain devices).
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/03-may-require-a-double-click-on-certain-devices.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;03. Select Add Source&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;If you are able to see this window, select &amp;ldquo;. &amp;quot;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/04-If-you-are-able-to-see-this-window.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;04. If you are able to see this window, select&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Type in the URL that points to the source you have to add to set up the addon and repository. These URLs are provided in each of our &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/categories/addons/&#34; &gt;guides for the installation of add-ons&lt;/a&gt;. In this case, we&amp;rsquo;ll download Kodzi Kodi, an addon &lt;a class=&#34;link&#34; href=&#34;____&#34; &gt;Kodzi Kodi Addon&lt;/a&gt;that can be used for installing Kodi addons using a URL downloaded from the internet.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/5-Type-in-the-URL-that-points.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;5-Type-in-the-URL-that-points&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Inside the text box beneath, enter your name, the title of your repository, source, or another term that defines the intent for this resource.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/06-Inside-the-text-box-beneath-enter-your-name.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;06-Inside-the-text-box-beneath-enter-your-name&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Click &amp;ldquo;OK&amp;rdquo; to confirm your input.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/07-Click-OK-to-confirm-your-input.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;07-Click-OK-to-confirm-your-input&#34;
-	
-	
-&gt;
-Step 1 is complete, and you&amp;rsquo;ve successfully added an external source.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;how-do-i-install-a-kodi-repository&#34;&gt;How do I install a Kodi repository?
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;On the Kodi home screen, select &amp;ldquo;Addons&amp;rdquo; on the left side.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/01-On-the-Kodi-home-screen-select-Addons.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;01-On-the-Kodi-home-screen-select-Addons&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Click on the box icon at the top left corner to launch&amp;quot;Addon Browser.&amp;rdquo;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/02-Click-on-the-box-icon-at-the-top-left-corner-to-launch-Addon-Browser.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;02-Click-on-the-box-icon-at-the-top-left-corner-to-launch-Addon-Browser&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Click &amp;ldquo;Install from zip file.&amp;rdquo;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/03-Click-Install-from-zip-file.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;03-Click-Install-from-zip-file&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;The Kodi file manager is opened and displays the list of connected devices as well as your sources. Select the source we added in the previous step.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/04-Select-the-source-we-added-in-the-previous-step.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;04-Select-the-source-we-added-in-the-previous-step&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Now, you have to locate the zip file that includes the word &amp;ldquo;repository&amp;rdquo; and the name of the repository that you need.Sometimes the zip file is not able to be found on the initial layer, but instead in subfolders inside the source.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The file names for repositories are always in this format: &amp;ldquo;repository.repositoryname-x.x.x.zip.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;We recommend using our &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/categories/addons/&#34; &gt;installation guides for Kodi addons&lt;/a&gt;. In these guides, we&amp;rsquo;re providing all the information that you should know, including the URL of the source as well as the names of repository files, and more.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/05-Now-you-have-to-locate-the-zip-file-that-includes-the-word.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;05-Now-you-have-to-locate-the-zip-file-that-includes-the-word&#34;
-	
-	
-&gt;
-06. After clicking to download the ZIP file, the repository will be created. Once the installation is completed successfully, a message box should show up that explains exactly what happened.&lt;/p&gt;
-&lt;p&gt;Step 2 is completed, and you&amp;rsquo;ve successfully added an external Kodi repository.&lt;/p&gt;
-&lt;h2 id=&#34;how-do-i-install-kodi-addons&#34;&gt;How do I install Kodi addons?
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Upon successful installation of the repository, select &amp;ldquo;Install from repository&amp;rdquo; in the &amp;ldquo;Addon Browser.&amp;rdquo;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/01-Upon-successful-installation-of-the-repository.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;01-Upon-successful-installation-of-the-repository&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;A listing of the installed Kodi repositories will appear. Select the one you&amp;rsquo;ve recently installed.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/02-A-listing-of-the-installed-Kodi-repositories-will-appear.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;02-A-listing-of-the-installed-Kodi-repositories-will-appear&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;You now need to choose the category of the Kodi addon you&amp;rsquo;d like to install. Most of the time, the addon is listed within the &amp;ldquo;Video addons&amp;rdquo; category. In this guide, however, the addon is located in &amp;ldquo;Program addons  add-ons.&amp;rdquo;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/03-You-now-need-to-choose-the-category.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;03-You-now-need-to-choose-the-category&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Choose the Kodi addon you would like to install. The majority of Kodi repositories have a lot of add-ons, so ensure you select the correct one.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/04-Choose-the-Kodi-addon-you-would-like-to-install.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;04-Choose-the-Kodi-addon-you-would-like-to-install&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;Click &amp;ldquo;Install&amp;rdquo; at the bottom right.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/05-Click-Install-at-the-bottom-right.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;05-Click-Install-at-the-bottom-right&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;If running Kodi 18 Leia and later, it will display a window that shows you the dependencies that will be installed, along with the add-on. These dependencies need to be installed or else the Kodi addon will not be functioning properly. Click &amp;ldquo;OK&amp;rdquo; on the left side.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/06-addon-will-not-be-functioning-properly-Click-OK-on-the-left-side.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;06-addon-will-not-be-functioning-properly-Click-OK-on-the-left-side&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;After a couple of seconds, the Kodi addon has been installed successfully.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/07-After-a-couple-of-seconds-the-Kodi-addon-has-been-installed-successfully.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;07-After-a-couple-of-seconds-the-Kodi-addon-has-been-installed-successfully&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;When you come back to the home screen of Kodi, every addon installed will be visible once you tap&amp;quot;Addons,&amp;quot; which is the option in the menu &amp;ldquo;Addons&amp;rdquo; on the left side.
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/08-tap-Addons-which-is-the-option-in-the-menu-Addons-on-the-left-side.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;08-tap-Addons-which-is-the-option-in-the-menu-Addons-on-the-left-side&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;last-words&#34;&gt;Last Words
-&lt;/h2&gt;&lt;p&gt;That&amp;rsquo;s it! If you&amp;rsquo;ve ever thought about what to do to set up Kodi add-ons, we hope this guide answers all of your queries. Make sure to read our &lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/best-kodi-add-ons/&#34; &gt;list of the BEST Kodi add-ons&lt;/a&gt;. In this list, you&amp;rsquo;ll discover every Kodi add-on that we would recommend using. In all of our instructions for installation, we list the exact URLs of the source as well as the names of the repository and add-ons, and you&amp;rsquo;ll have to install and use these add-ons.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>How To Enable unknown sources on kodi</title>
-        <link>https://demo.stack.jimmycai.com/p/how-to-enable-unknown-sources-on-kodi/</link>
-        <pubDate>Fri, 02 Aug 2024 07:34:23 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/how-to-enable-unknown-sources-on-kodi/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/How-To-Enable-unknown-sources-on-kodi.webp" alt="Featured image of post How To Enable unknown sources on kodi" /&gt;&lt;p&gt;In this article, we&amp;rsquo;ll guide you through enabling unidentified sources in Kodi. It is necessary to enable this feature to install Kodi addons and repositories from third-party sources.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;h2 id=&#34;what-is-the-reason-i-should-permit-sources-i-havent-heard-of&#34;&gt;What is the reason I should permit sources I haven&amp;rsquo;t heard of?
-&lt;/h2&gt;&lt;p&gt;Since Kodi 17, there&amp;rsquo;s an updated enable unknown sources option that you will need to activate if you plan to install third-party Kodi addons. Kodi is essentially an interface for media that can be greatly improved by installing Kodi addons.&lt;/p&gt;
-&lt;p&gt;There are many Kodi extensions that you can download directly from the Kodi repository. But many more Kodi addons are available through our website or browsing the internet.&lt;/p&gt;
-&lt;p&gt;To ensure that you are conscious that Kodi developers don&amp;rsquo;t officially approve the Kodi addons, you must enable the option to hide sources in your preferences.&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;re wondering In case you are wondering: The majority of Kodi addons available on this site are 100% authentic and will not cause damage to the system. Unknown sources are merely another term for third-party sources. You must enable this option in your settings to install Kodi addons from these sources. We&amp;rsquo;ll explain how.&lt;/p&gt;
-&lt;h2 id=&#34;how-do-you-enable-unidentified-sources-on-kodi-19-matrix--kodi-18-leia&#34;&gt;How do you enable unidentified sources on Kodi 19 Matrix &amp;amp; Kodi 18 Leia?
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Launch Kodi and click the gear icon to access the settings menu.&lt;/strong&gt;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/1-click-the-gear-icon.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;1-click-the-gear-icon&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Click on &amp;ldquo;System&amp;rdquo;.&lt;/strong&gt;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/2-Click-on-System.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Click on System&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Select Highlight the option &amp;ldquo;Addons&amp;rdquo; on the left side and then click &amp;ldquo;Unknown sources&amp;rdquo; in the middle of the screen.&lt;/strong&gt;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/3-select-option-Addons.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Select Highlight the option Addons&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kodi will ask whether you are interested in enabling this feature. Make sure to confirm this by saying &amp;ldquo;Yes&amp;rdquo;.&lt;/strong&gt;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/4-Make-sure-to-confirm-this-by-saying-Yes.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Make sure to confirm this by saying Yes&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ensure you have Unknown sources turned on by looking at the switch on the right. It should change to white. This means that the sources you don&amp;rsquo;t know are enabled on Kodi are turned on!&lt;/strong&gt;
-&lt;img src=&#34;https://demo.stack.jimmycai.com/images/4-turned-on-by-looking-at-the-switch-on-the-right.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;turned on by looking at the switch on the right&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;why-is-there-no-information-on-kodi&#34;&gt;Why is there no information on Kodi?
-&lt;/h2&gt;&lt;p&gt;Kodi&amp;rsquo;s &amp;ldquo;no stream available&amp;rdquo; error could also happen if the source that the addon is trying to retrieve data is unavailable. This could occur when the server is in maintenance, or there are other technical problems, such as network issues. You could try a different source using the same addon&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Best Kodi Add ons [Reviewed &amp; Updated for 2024]</title>
-        <link>https://demo.stack.jimmycai.com/p/best-kodi-add-ons/</link>
-        <pubDate>Thu, 01 Aug 2024 19:26:18 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/best-kodi-add-ons/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/best-kodi-add-ons.webp" alt="Featured image of post Best Kodi Add ons [Reviewed &amp; Updated for 2024]" /&gt;&lt;p&gt;In this article, we present the most effective Kodi add-ons available for movies and television shows, sports and replays, streaming TV (IPTV), anime and cartoons, adults and many others. This list is continuously updated as we test Kodi Addons from time to time. The top Kodi add-ons could be different over time.&lt;/p&gt;
-&lt;p&gt;The add-ons listed here can be used for Kodi 21 Omega, Kodi 20 Nexus (up to Kodi 20.5) and Kodi 19 Matrix (up to Kodi 19.5). They can be used on any hardware that you can install Kodi on, such as Fire TV Stick 4K Max, Fire TV Stick 4K Max, Fire TV Stick, Fire TV Cube, Nvidia Shield TV, Android tablets and smartphones, Android TV boxes, Windows computers, and Apple Mac devices.&lt;/p&gt;
-&lt;p&gt;Be aware that Kodi add-ons are no cost. The developers spend their free time improving the Kodi experience. This means Kodi add-ons could not work at night.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Koditricks.com is not associated with the makers of Kodi addons. We have no control over the contents of Kodi add-ons, and we do not recommend that our users take action for any kind of copyright violation.&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;h2 id=&#34;best-all-in-one-kodi-addons&#34;&gt;Best ALL-IN-ONE Kodi Addons
-&lt;/h2&gt;&lt;h3 id=&#34;1-the-crew&#34;&gt;1. The Crew
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/the-crew-kodi-addon-icon.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;the crew&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;The crew Kodi add-on can be described as a well-known all-in-one add-on that has been available for a long time. The Crew includes several sections of video content, including Movies, Television Shows, Sports, IPTV, Kids and other categories. It&amp;rsquo;s one of the best and most stable add-ons available, with lots of video content.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Repository: The Crew Repository
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Source URL: https://team-crew.github.io
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/the-crew-addon/&#34; &gt;How I Install The Crew Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2-ghost&#34;&gt;2. Ghost
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/ghost-kodi-addon.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;Ghost Addon&#34;
-	
-	
-&gt;
-The Ghost Kodi Addon is available again in the form of a Shadow fork located in the Crew Repository. The add-on is all-in-one and includes sections for TV programs, live TV shows, sports replays, and many other categories. Ghost is scouring the internet for content. It provides playlists with a single click as well as categories.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Repository: The Crew Repository
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Source URL: https://team-crew.github.io
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/ghost-addon-kodi/&#34; &gt;How do I download and install Ghost Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;3-the-lab&#34;&gt;3. The Lab
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/the-lab-kodi-addon-icon.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;The Lab Kodi Addon&#34;
-	
-	
-&gt;
-Lab Kodi Addon Lab Kodi Addon is an all-in-one add-on that is part of The Lab Repository. It comes with a variety of categories and sections to pick from. The categories comprise Movies and TV Shows, New Episodes, New Movies, 1-Click Movies, IPTV &amp;amp; Sports and numerous others. The lab has a playlist that can be played with one click of content. It is also able to search for video sources.&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Repository: The Lab Repository
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;Source URL: https://th3l48.github.io/TheLab/
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://demo.stack.jimmycai.com/posts/the-lab-kodi-addon/&#34; &gt;How do I install the Lab Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;4-asgard&#34;&gt;4. Asgard
-&lt;/h3&gt;&lt;p&gt;Asgard Kodi Addon Asgard Kodi Addon is a popular, all-in-one addon with sections dedicated to television shows, movies, and sports replays, as well as videos for kids and documentaries. There are plenty of categories and sections that you can explore. If you don&amp;rsquo;t have Debrid access, there&amp;rsquo;s also a functional &amp;ldquo;Non Debrid Section&amp;rdquo; for videos. To get the best from this extension, be sure you are using Real Debrid or another similar service.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/asgard-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Asgard Kodi. Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;5-dynasty&#34;&gt;5. Dynasty
-&lt;/h3&gt;&lt;p&gt;Dynasty Kodi Addon Dynasty Kodi Addon is a complete add-on located inside the Warehouse Repository. Dynasty is a huge repository with lots of content available to explore. Its sections include movies, TV shows, IPTV &amp;amp; Sports, Documentaries, music, kids and much more. The add-on can be used to crawl sources for video content. It also offers a variety of playlists and content that can be accessed via 1-click.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/dynasty-kodi-addon-all-in-one/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Dynasty Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;6-m-e-t-v&#34;&gt;6. M-E-T-V
-&lt;/h3&gt;&lt;p&gt;The M-E.T.V Kodi Addon is an all-in-one addon available inside the EzzerMacs Wizard Repository. The categories include TV, Movies, sports, individuals, Children, track and other categories. Most categories are playlists featuring one-click videos and hyperlinks. Certain sections include live streams, too.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/metv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the M-E -T-V Kodi addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;7-gratis&#34;&gt;7. Gratis
-&lt;/h3&gt;&lt;p&gt;The Gratis Kodi Addon provides a variety of videos. The sections comprise Latest Movies, Live Sports, Live Channels, Sports Replays and much more. The addon can be found within the Funstersplace Repository. The links are completely absolutely free and do not require Debrid&amp;rsquo;s service. Menu layouts are simple and easy to navigate.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/gratis-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Gratis Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;8-fido&#34;&gt;8. Fido
-&lt;/h3&gt;&lt;p&gt;Fido Kodi Addon Fido Kodi Addon is an all-in-one addition that can be found within the Fido Repository. Fido includes a variety of playlists with one-click functionality and the ability to search different sources for videos. This is among the few add-ons that can provide free links. Sections comprise live TV, music TV, movies, kids&amp;rsquo; area TV box sets, and other features.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fido-kodi-addon-all-in-one/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Fido Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;9-nemesis-aio&#34;&gt;9. Nemesis AIO
-&lt;/h3&gt;&lt;p&gt;The Nemesis AIO Kodi Addon is an all-in-one addon that provides different kinds of videos. The sections include TV shows, Live Sports &amp;amp; Replays, Documentaries, Cartoons, and numerous others. Nemesis has special features, like a watch party function and an adult-only section that is protected by a password you can create by yourself. Make sure you have a PIN number to gain access to the add-on. After you start the addon, the addon, a pop-up window will appear contains all the information required.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/nemesis-aio-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Nemesis&amp;rsquo;s AIO Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;10-uk-turk-playlists&#34;&gt;10. UK Turk Playlists
-&lt;/h3&gt;&lt;p&gt;It is the UK Turk Playlist. Kodi Addon is a well-loved all-in-one movie addon that works together with the Kodi 19 Matrix. There are a variety of categories and sections to pick from, such as television shows, live TV documentaries, Turkish sports television, Turkish movies, and many more. Instead of scrapers, this add-on displays the videos in playlists, which means you just need only two clicks to begin the playback. UK Turk comes with a large amount of content. Through our screenshots in this article, you can get a sense of how complete the add-on is.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/uk-turk-playlists-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install UK Turk&amp;rsquo;s Playlists Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h2 id=&#34;best-kodi-add-ons-for-movies--tv-shows&#34;&gt;Best Kodi Add Ons for MOVIES &amp;amp; TV SHOWS
-&lt;/h2&gt;&lt;h3 id=&#34;1-netflix&#34;&gt;1. Netflix
-&lt;/h3&gt;&lt;p&gt;Through this Netflix Kodi Addon, you can access video content from all of the world&amp;rsquo;s top streaming services. There are many categories to pick from, including the latest releases, top picks as well as popular content. This add-on requires an active Netflix subscription. It won&amp;rsquo;t operate without one.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/netflix-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Netflix Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;2-disney-plus-disney&#34;&gt;2. Disney Plus (Disney+)
-&lt;/h3&gt;&lt;p&gt;Through this Disney Plus Kodi Addon (Disney+), you can access all the content on Disney Plus. Disney Plus streaming service. Disney Plus is a subscription-based service that streams video on demand provided by The Walt Disney Company. It is a subscription-based service that allows access to all Disney productions, including Pixar, Marvel, Fox and National Geographic content. The most popular TV show is The Mandalorian, the complete Star Wars franchise, and all Marvel movies such as The Avengers, X-Men, The Simpsons and much more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/disney-plus-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Disney Plus Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;3-hulu&#34;&gt;3. Hulu
-&lt;/h3&gt;&lt;p&gt;Hulu is a well-known American streaming service that has a lot of programming to enjoy. By using the Hulu Kodi Addon, you get access to all films, television shows, movies, live TV channels, and sports programs through Your Kodi Media Center. Take note that a Hulu account that has an active subscription is necessary. At the moment, Hulu is accessible only by using a US IP address. If you&amp;rsquo;re not within the United States, you might have to use the VPN service.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/hulu-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Hulu Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;4-tubi-tv&#34;&gt;4. Tubi TV
-&lt;/h3&gt;&lt;p&gt;Its Tubi TV Kodi Addon offers more than 50,000 films or TV series. While Tubi TV doesn&amp;rsquo;t offer the latest movies and shows, it does have a huge library of popular and lesser-known movies you can&amp;rsquo;t get with an alternative Kodi addon. Additionally, there is a wide selection of content that specializes in your preferences. This service is free and legal. It is financed through non-skippable advertising during the stream.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tubi-tv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Tubi TV Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;5-fen&#34;&gt;5. Fen
-&lt;/h3&gt;&lt;p&gt;Its Fen Kodi Addon is a robust and light addon that allows video content to be streamed on the internet. Fen includes support for Real Debrid (cached torrents), Easynews (Usenet provider) and Furk (storage provider), which makes it distinctive. Fen is among the most efficient add-ons available, and it scrapes extremely quickly while pulling many high-quality hyperlinks. If you&amp;rsquo;re an Easynews or Furk client, you can type your login details into the settings for your add-on.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fen-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Fen Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;6-fen-light&#34;&gt;6. Fen Light
-&lt;/h3&gt;&lt;p&gt;This Fen Light Kodi addon is a smaller variant of the initial Fen Kodi addon. The primary focus is extremely fast performance. So, certain functions have been omitted from the program, which many Kodi users generally do not require. However, basic features like assistance for Debrid applications, EasyNews or Trakt are not gone.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fen-light-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Fen Light Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;7-umbrella&#34;&gt;7. Umbrella
-&lt;/h3&gt;&lt;p&gt;This Umbrella Kodi Addon is a Venom fork and is working excellently. It is equipped with the identical features of the original, which means Umbrella has extremely fast scraping speeds and supports various premium services like EasyNews as well as Furk and a variety of sections to pick from. Umbrella releases updates often, which makes it among the most popular video add-ons available for Kodi.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/umbrella-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How to install Umbrella Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;8-seren&#34;&gt;8. Seren
-&lt;/h3&gt;&lt;p&gt;Its Seren Kodi add-on is currently the best option for high-quality video content streaming. Seren is a brand-new Kodi addon that is extremely fast and smooth and has a wide range of options to improve your experience. In our complete Seren Kodi addon tutorial, we will also teach you how to set the right settings to get the best from Seren.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/seren-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install and set up Seren Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;9-scrubs-v2&#34;&gt;9. Scrubs V2
-&lt;/h3&gt;&lt;p&gt;It&amp;rsquo;s back! Scrubs V2 Kodi Addon is back and is now using the Kodi 19 Matrix. Scrubs V2 provides video content such as television shows and movies. This add-on is unique because it has free links, and no Debrid service is needed. Its menu layout is easy and simple. The add-on includes several scrapers that you can enable and deactivate within the settings. Additionally, there&amp;rsquo;s a bonus section named &amp;ldquo;More Stuff&amp;rdquo; with some extra functionalities.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/scrubs-v2-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Scrubs Version 2 Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;10-pov&#34;&gt;10. POV
-&lt;/h3&gt;&lt;p&gt;It is the POV Kodi Addon, which is a Fen fork located within the Kodifitzwell Repository. The categories comprise Movies, TV Shows, Popular People, Search, Discover and more. Presently, POV is running very quickly, just like Fen&amp;rsquo;s predecessor. Fen. It&amp;rsquo;s also among the few add-ons that support Offcloud.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/pov-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the POV Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;11-ezra&#34;&gt;11. Ezra
-&lt;/h3&gt;&lt;p&gt;Its Ezra Kodi Addon is a Fen fork that can scrape various sources for videos, including TV and movies. Similar to Fen, its overall speed, particularly the speed of scraping Ezra, is incredibly quick. It also supports Real Debrid, Easynews and Furk. Ezra is still in its initial stages. However, it is already working without problems. While Fen is back in operation, Ezra is a viable alternative.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/ezra-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Ezra Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;12-wutu&#34;&gt;12. Wutu
-&lt;/h3&gt;&lt;p&gt;It is the Wutu Kodi Addon, a Venom fork situated inside the Ezra Repository. Wutu provides a variety of video content, sorted into groups and lists. There are sections like Discover Movies, Discover TV Shows, My Movies, My TV Shows, Search and much more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/wutu-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Wutu Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;13-magic-dragon&#34;&gt;13. Magic Dragon
-&lt;/h3&gt;&lt;p&gt;The Magic Dragon Kodi Addon is now working with the most current Kodi versions that are available. The addon was updated and has a brand new layout, improved menu structure and quicker loading times. Magic Dragon can scrape different sources for video content. It also offers a variety of playlists as well as 1-click content available. If you&amp;rsquo;re interested in videos, you must definitely look into this add-on.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/the-magic-dragon-kodi-addon-movies-tv-shows/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Magic Dragon Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;14-dradis&#34;&gt;14. Dradis
-&lt;/h3&gt;&lt;p&gt;The Dradis Kodi Addon is found in the Kodifitzwell Repository and lists video content of different kinds. The sections comprise Discover Movies, Discover TV Shows, My Movies, My TV Shows, Search and much more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/dradis-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Dradis Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;15-infinity&#34;&gt;15. Infinity
-&lt;/h3&gt;&lt;p&gt;It is the Infinity Kodi Addon, a new Venom fork located in the Kodifitzwell Repository. The sections comprise Discover Movies, Discover TV Shows, Anime and many other features.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/infinity-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download and install the Infinity Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;16-absolution&#34;&gt;16. Absolution
-&lt;/h3&gt;&lt;p&gt;Absolution Kodi Addon Absolution Kodi Addon lists video content such as TV and movies. It includes a variety of categories and sections to help you find things quickly. Absolution can be found within the Crew Repository. It supports free links to Trakt and Orion.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/absolution-kodi-addon-movies-tv-shows/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How can I Install the Absolution Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;17-twilight&#34;&gt;17. Twilight
-&lt;/h3&gt;&lt;p&gt;Twilight Kodi Addon Twilight Kodi Addon lists video content, including TV shows and films and is part of the &amp;ldquo;Kodi + Real Debrid Israel Repository&amp;rdquo;. The addon is compatible with Debrid services such as Real Debrid, Furk and EasyNews. If you wish to scrape sources from outside for content, you must install the CocoScrapers module and choose it from the add-on settings.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/twilight-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How to Install the Twilight Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;18-kit&#34;&gt;18. Kit
-&lt;/h3&gt;&lt;p&gt;Kit Kodi Addon Kit Kodi Addon is a fen fork located at Aliunde Repository. Aliunde Repository. For the first Fen and all other forks, this add-on works extremely fast and has a clear and easy layout. The sections comprise Movies, TV shows, Search, Discover and numerous others.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/kit-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Kit Kodi&amp;rsquo;s Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;19-buds&#34;&gt;19. Buds
-&lt;/h3&gt;&lt;p&gt;It is the Buds Kodi Addon is a version of the well-known Fen addon that was temporarily halted by the developer. The Bud&amp;rsquo;s addon is a fork of the Fen Addon. Buds allows the user to access various sources of video content, such as television shows and films. Similar to the original Fen, the add-on includes numerous features, including Furk along with EasyNews support, speedy scraping speeds, and stunning performance.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/buds-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Buds Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;20-nightwing&#34;&gt;20. Nightwing
-&lt;/h3&gt;&lt;p&gt;This Nightwing Kodi Addon is a quick as well as reliable addition of video that can be used for TV and films. The add-on uses its own NightwingScrapers, and you can find numerous sources of videos of excellent quality. In addition, Nightwing has a variety of helpful extra features like children&amp;rsquo;s videos, documentaries and 1-click hyperlinks. It&amp;rsquo;s currently one of the most popular video add-ons there, so you should test it out.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/nightwing-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Nightwing Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;21-shadow&#34;&gt;21. Shadow
-&lt;/h3&gt;&lt;p&gt;Through this Shadow Kodi Addon, you can enjoy high-quality TV and movie shows. Contrary to the majority of other add-ons, Shadow also includes Furk and Easynews (Usenet). Shadow scrapes just a handful of hosts for free, and we strongly suggest using services like Real Debrid. Shadow Kodi Addon Shadow Kodi Addon has a sleek design, is small, easy to use, and scrapes very quickly, so you should go through it if you like video content.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/shadow-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Shadow Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;22-black-lightning&#34;&gt;22. Black Lightning
-&lt;/h3&gt;&lt;p&gt;The Black Lightning Kodi Addon lists the various kinds of videos. It is available in cMaN&amp;rsquo;s Wizard Repository. The categories comprise 1 Click Free Movies, New Movies TV Shows, and many more. In section 1, click on the link to find a list of sporting events as well as other kinds of videos.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/black-lightning-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Black Lightning Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;23-quicksilver&#34;&gt;23. Quicksilver
-&lt;/h3&gt;&lt;p&gt;The Quicksilver Kodi Addon is an Exodus fork that is located in the cMaN Wizard Repository. The sections comprise movies and TV shows: 1-Click, new movies, new episodes, channels, and much more. Because Quicksilver is built on a popular layout, it&amp;rsquo;s functioning quite quickly.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/quicksilver-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Quicksilver Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;24-nine-lives&#34;&gt;24. Nine Lives
-&lt;/h3&gt;&lt;p&gt;Nine Lives Kodi Addon Nine Lives Kodi Addon (also known as &amp;ldquo;9 Lives&amp;rdquo;) is an extremely fast-working Exodus fork that is located in the Grindhouse Repository. Nine Lives lists different sorts of video content in an easy and straightforward layout. The sections comprise movies, TV shows, new episodes, people, and many more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/nine-lives-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Nine Lives Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;25-moria&#34;&gt;25. Moria
-&lt;/h3&gt;&lt;p&gt;The Moria Kodi Addon is an Exodus fork, and it is located within The Crew Repository. It provides a variety of video content and has a wide range of filters &amp;amp; categories. The sections comprise Movies, TV Shows, New Episodes, and other categories. Overall, the performance of this add-on is excellent.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/moria-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Moria Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;26-for-the-love-of-scifi&#34;&gt;26. For The Love Of SciFi
-&lt;/h3&gt;&lt;p&gt;The For The For The Love Of SciFi Kodi Addon is focused on SciFi content. Each section is filled with different one-click movies and playlists. The add-on is available at the Crew Repository. The sections comprise Trakt, SciFi Search, Requested SciFi, SciFi Movies, SciFi Shows, and many other features.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/for-the-love-of-scifi-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install For The Love of Science Fiction Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;27-gallifrey&#34;&gt;27. Gallifrey
-&lt;/h3&gt;&lt;p&gt;The Gallifrey Kodi Addon is about the cult TV program Doctor Who. Sections comprise The Doctors, Torchwood, Specials, Movies and Tools. Within the categories is plenty of video content that you can discover. The addon can be found within The Crew Repository.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/gallifrey-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Gallifrey Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;28-black-and-white-movies&#34;&gt;28. Black And White Movies
-&lt;/h3&gt;&lt;p&gt;Through this Black And White movie, Kodi Addon, you can enjoy old vintage and retro films from the past. Genres and sections include animation, action, adventure, Christmas, comedy, horror, drama and other genres. If you&amp;rsquo;re looking for classic films, take a look at this one.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/black-and-white-movies-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Black And White Movies Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;29-aliunde-just-click-it&#34;&gt;29. Aliunde, Just Click It
-&lt;/h3&gt;&lt;p&gt;The Aliunde Just Click It Kodi Addon lists video content and playlists. The categories comprise Aliunde Just Click It UK Soaps Catchup, Television Shows, Trakt World and many more. The add-on offers a variety of 1-click categories that contain the majority of British videos. It also scrapes for content from various sources. In particular, British users are advised to examine the options.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/aliunde-just-click-it-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Aliunde? Simply Click Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;30-homelander&#34;&gt;30. Homelander
-&lt;/h3&gt;&lt;p&gt;The Homelander Kodi Addon is a brand-new The Oath or Exodus fork, which is part of The Crew Repository. The addon provides video content such as TV shows and movies. It includes bonus sections, such as &amp;ldquo;New Movies&amp;rdquo; and &amp;ldquo;New Episodes&amp;rdquo;. Homelander has the same features as the first and supports free links.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/homelander-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the Homelander Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;31-the-coalition&#34;&gt;31. The Coalition
-&lt;/h3&gt;&lt;p&gt;The Coalition Kodi Addon is a Fen fork, which is part of The Crew Repository. The sections comprise Movies, Television shows, Actors, Searches and numerous others. The video addon has an advanced filter feature. This function can be used to search for video content that is based on different parameters like the year or the genre.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/the-coalition-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;The Coalition Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;32-luffy&#34;&gt;32. Luffy
-&lt;/h3&gt;&lt;p&gt;The Luffy Kodi Addon lists videos and is available inside The Crew Repository. As a Fen fork, Luffy provides a clear user interface and is simple to use. You might need to enable external scrapers within the settings.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/luffy-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Luffy Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;33-zoro&#34;&gt;33. Zoro
-&lt;/h3&gt;&lt;p&gt;The Zoro Kodi Addon is an addon video for The Crew Repository. Zoro is a Venom and Dradis fork. The sections listed in the main menu include Movies and Television Shows, My Movies, My TV Shows, Search and Tools.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/zoro-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Zoro Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;34-thx-1138&#34;&gt;34. THX 1138
-&lt;/h3&gt;&lt;p&gt;The THX 1138 Kodi Addon are a fork of the original Exodus addon. In contrast to other forks, THX 1138 has been updated and maintained in the scraper module. The layout is simple, and the lists of videos are simple to locate. Within the sections, you will be able to filter the videos using filters such as Genre Language, Year The Most Popular and more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/thx-1138-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the THX 1138 Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;35-base&#34;&gt;35. Base
-&lt;/h3&gt;&lt;p&gt;The Base 19 Kodi Addon is an extremely efficient add-on for TV and movie shows, with a very simple layout. In the sections, you will find various categories such as popular video content, genres of films, decades, classic films and much more. This addon also has an easy-to-use section dubbed &amp;ldquo;Base19&amp;rdquo;, which also includes documentaries and sports replays. If you&amp;rsquo;re seeking video content, make sure you look into this addon. In this tutorial, we walk you through step-by-step instructions on how you can install Base 19 Kodi Addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/base-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do you set up Base Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;36-patriot&#34;&gt;36. Patriot
-&lt;/h3&gt;&lt;p&gt;The Patriot Kodi Addon has the largest collection of videos and playlists. The sections comprise Movies, TV Shows, Docs, Kids, Music and numerous others. The addon makes use of scrapers, but it also contains many 1-click videos. Look over the images from the report to get a better idea of how Patriot is organized.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/patriot-kodi-addon-movies-tv-shows/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Patriot Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;37-crazy-canucks&#34;&gt;37. Crazy Canucks
-&lt;/h3&gt;&lt;p&gt;It is the Crazy Canucks Kodi Addon is a Shadow fork and displays video content such as movies or TV programs. This layout is widely known for its simplicity and ease of use. Crazy Canucks can scrape for video content while offering a 1-click option at the bottom with a variety of playlists. This add-on requires a subscription, such as Real Debrid, as it will not function without one.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/crazy-canucks-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Crazy Canucks Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;38-chain-reaction&#34;&gt;38. Chain Reaction
-&lt;/h3&gt;&lt;p&gt;Chain Reaction Kodi Addon Chain Reaction Kodi Addon offers unique video collections that are accessed via 1-click content. The various sections cover a range of subjects, including retro and horror films, science fiction, and others. The addon works extremely quickly since all of the items are one-click videos. Look through the screenshots within this article for a sense of how the addon works and how the sections are identified.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/chain-reaction-lite-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download Chain Reaction&amp;rsquo;s Addon Kodi&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;39-shazam&#34;&gt;39. Shazam
-&lt;/h3&gt;&lt;p&gt;Shazam Kodi addon Shazam Kodi addon comes from an Exodus fork and is found in the Narcacist&amp;rsquo;s Wizard Repository. The add-on is able to scrape for videos. However, it comes with an area for playlists that allow 1-click access to content, too. The sections comprise Shazam Movies, Television Shows Channels, and many more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/shazam-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Shazam Kodi&amp;rsquo;s Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;40-unleashed&#34;&gt;40. Unleashed
-&lt;/h3&gt;&lt;p&gt;The Unleashed Kodi Addon lists video content, including TV shows. It is available in The Crew Repository. The addon uses scrapers. However, it also has an area with links that are 1-click. The sections comprise Search, Trakt, Movies as well as TV Shows One Click and many more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/unleashed-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Unleashed Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;41-tempest&#34;&gt;41. Tempest
-&lt;/h3&gt;&lt;p&gt;Its Tempest Kodi Extension is a well-known Exodus fork designed for TV and film. It is small and simple to use in a matter of minutes, and you&amp;rsquo;ll be in a position to search for videos. As of now, Tempest works well for users who are free also.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tempest-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Tempest Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;42-fmovies&#34;&gt;42. FMovies
-&lt;/h3&gt;&lt;p&gt;The FMovies Kodi Addon is a unique add-on that streams video content on the internet. When you are presented with an overview of the videos, you can filter them by country or genre, year of release quality, subtitle language and quality. This will result in a list that is not overly stuffed and includes only those videos that you are interested in. In addition, the links are all completely free and do not require a Debrid subscription.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fmovies-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download and install the Fmovies Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;43-series-video-kodi-addon&#34;&gt;43. Series. Video Kodi Addon
-&lt;/h3&gt;&lt;p&gt;This TVseries.video Kodi Addon lists TV shows and episodes that have recently aired. This add-on does not require Debrid services. All links are completely free. The sections include popular TV shows, alphabetical lists, genres, networks, years, and genres.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tvseries-video-kodi-addon-tv-shows/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up a TV Series. video Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;44-gomovies&#34;&gt;44. GOmovies
-&lt;/h3&gt;&lt;p&gt;The Kodi for GOmovies Addon provides video content, such as TV and films. The addon is part of the G-Source Repository. The results are taken from a site with an identical name. Contrary to other Kodi add-ons, GOmovies offers free links which do not require Debrid service. It also has an effective search function that includes various filters.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/gomovies-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install Gomovies Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;45-wolf-pack&#34;&gt;45. Wolf Pack
-&lt;/h3&gt;&lt;p&gt;Wolf Pack Kodi Addon Wolf Pack Kodi Addon is an extensive add-on for video content such as movies as well as TV series. Wolf Pack comes with unique 1-Click playlists and sections. It also has the ability to scrape content using its own WolfPackScrapers. Additionally, the user can use search options. In addition, Wolf Pack has The End Zone Kodi Addon that can be used to stream sports-related content.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/wolf-pack-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Wolf Pack Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;46-alvin&#34;&gt;46. Alvin
-&lt;/h3&gt;&lt;p&gt;Its Alvin Kodi Addon is an Exodus fork that is located in the Octopus Repository. Alvin is a small addon that is extremely fast to use. The menus are easy to navigate and have lots of filters and categories. Alvin is also equipped with the ability to scrape its own. Be sure to install the add-on in conjunction with Real Debrid to search for high-quality videos. In the guide below, we will walk you through step-by-step instructions on instructions on how you can install to install the Alvin Kodi Addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/alvin-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Alvin Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;47-releasebb&#34;&gt;47. ReleaseBB
-&lt;/h3&gt;&lt;p&gt;ReleaseBB Kodi Addon ReleaseBB Kodi Addon contains links to numerous TV and movie shows with high definition, such as 1080p or even 4K. Contrary to other add-ons, ReleaseBB draws hyperlinks from the most popular scene release websites available on the internet. Check out our article for an idea of how films or shows will be named in the addon. Real Debrid is an essential feature of this add-on!&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/releasebb-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Kodi ReleaseBB Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;48-navyseal-platinum-k19&#34;&gt;48. Navyseal Platinum K19
-&lt;/h3&gt;&lt;p&gt;The Navyseal Platinum K19 Kodi Addon is a Shadow fork inside The South Paw Repository. It lists videos, including movies as well as TV shows. It also includes Trakt support. Additionally, Navyseal Platinum has a neat 1-Click video section.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/navyseal-platinum-k19-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Navyseal&amp;rsquo;s Platinum Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;49-crackle&#34;&gt;49. Crackle
-&lt;/h3&gt;&lt;p&gt;Crackle is a completely free and legal platform for TV and movie shows that are owned by Sony. Even though there aren&amp;rsquo;t any Hollywood blockbusters or TV shows of the zeitgeist that are available, Crackle is still able to offer an impressive collection of treasures, classics and B-movies. The genres are action, comedy drama or sci-fi thrillers, as well as numerous others. Through the Crackle Kodi add-on, you get access to all of the content in your media library.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/crackle-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download and install Crackle Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;50-popcornflix&#34;&gt;50. Popcornflix
-&lt;/h3&gt;&lt;p&gt;This Popcornflix Kodi Addon allows you to stream video content directly from a website that shares the same name. Popcornflix is a streaming service that focuses on lesser-known TV and film shows. There are many various genres, including action, drama, horror, mystery, family, and a lot other. In addition, Popcornflix has original content and a lot of old-school films that date back to the past.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/popcornflix-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Popcornflix Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;51-aliunde-k19&#34;&gt;51. Aliunde K19
-&lt;/h3&gt;&lt;p&gt;It is the Aliunde K19 Kodi Addon, which is a Shadow fork that lists video content such as movies and TV series. It can search for video sources but also has boxes and playlists that offer the ability to access content with a single click. Be aware that a service like Real Debrid is required to get the most value from this and a host of other add-ons. Check out our tutorial below for more information on what you need to do in order to set up Aliunde K19 Kodi Addon Aliunde K19 Kodi Addon in just a few steps.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/aliunde-k19-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How to install Aliunde K19 Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;52-sealteam6&#34;&gt;52. Sealteam6
-&lt;/h3&gt;&lt;p&gt;Sealteam6 Kodi Addon Sealteam6 Kodi Addon is a new addition to your media centre that allows watching TV and films online. Sealteam6 is compatible with Trakt, Real Debrid and is also working with Kodi 19 Matrix. It is based on the well-known Exodus layout. This addon is available inside the South Paw Repository.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/sealteam6-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Sealteam6 Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;53-subsmovies-club&#34;&gt;53. Subsmovies Club
-&lt;/h3&gt;&lt;p&gt;It is the Subsmovies Club Kodi Addon, which is an add-on that plays English films with subtitles. Contrary to other addons, Subsmovies Club does not require an additional service such as Real Debrid. In the addon, you can discover a myriad of areas and options for filtering.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/subsmovies-club-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Subsmovies Club Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;54-exodus-redux&#34;&gt;54. Exodus Redux
-&lt;/h3&gt;&lt;p&gt;Exodus Redux Kodi Addon is yet another Exodus fork that pulls a variety of hyperlinks for TV and movies. Shows. It is the version from Exodus that utilizes OpenScraper and has Real Debrid support. Although the addon doesn&amp;rsquo;t receive any updates anymore, it&amp;rsquo;s still running well. This addon does not work in conjunction with Kodi 19 Matrix.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/exodus-redux-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Exodus Redux Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h2 id=&#34;best-kodi-add-ons-for-sports&#34;&gt;Best Kodi Add Ons for SPORTS
-&lt;/h2&gt;&lt;h3 id=&#34;1-sport-hd&#34;&gt;1. Sport HD
-&lt;/h3&gt;&lt;p&gt;The Sport HD Kodi Addon is the sequel to the popular Sport 365 addon. It was created and developed by the same person who designed it and is running exceptionally well. The streams available are sourced exclusively from a particular website, the name of which you will find within the description for the add-on. Live sports are available in a section that includes daily events and the time of their start.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/sport-hd-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the Sport HD Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;2-rising-tides&#34;&gt;2. Rising Tides
-&lt;/h3&gt;&lt;p&gt;Rising Tides Kodi Addon Rising Tides Kodi Addon is an extremely useful instrument for watching live sports. Its focus is on European soccer and football from England. Additionally, Rising Tides comes with sections for live events such as NBA, UFC, wrestling, and much more. In this tutorial, we will guide you through the step-by-step steps to set up Rising Tides Kodi Addon. Rising Tides Kodi Addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/rising-tides-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Rising Tides Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;3-daddylive&#34;&gt;3. Daddylive
-&lt;/h3&gt;&lt;p&gt;The Daddylive Kodi Addon lists live sporting events as well as TV channels. It is found within The Crew Repository. The content is sourced from a well-known website with an identical name. The sections available are Live Sports and Live TV. The kinds of sports covered include cricket, soccer, tennis, field hockey, boxing, MMA motorsports, horse racing, and more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/daddylive-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the DaddyLive Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;4-mad-titan-sports&#34;&gt;4. Mad Titan Sports
-&lt;/h3&gt;&lt;p&gt;The Mad Titan Sports Kodi Addon is an enormous video add-on that allows live games and replays. The main focus is on US sports such as the NBA, MLB, NFL, and NHL. However, there are plenty of other sections that cover additional sports, such as wrestling, soccer, MMA or UFC, and a lot of others. Additionally, the add-on offers highlights, replays, and streaming websites.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/mad-titan-sports-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Mad Titan Sports Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;5-the-loop&#34;&gt;5. The Loop
-&lt;/h3&gt;&lt;p&gt;The Loop Kodi Addon provides live sports events as well as replays. There are several sections available to look through, such as Today Live Football, Auto Zone 24/7 Zone, Darts Zone, MLB Zone, NBA Zone, NHL Zone, Replay Zone, and numerous others. The list of events is regularly updated. The Loop is also equipped with the ability to search for particular events in the event list in the first place.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/the-loop-kodi-addon-live-sports/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How To Install The Loop Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;6-the-endzone&#34;&gt;6. The Endzone
-&lt;/h3&gt;&lt;p&gt;Its Endzone Kodi Addon is a popular addon that allows you to stream live games and replays. The sections comprise NFL, NBA, NCAAF, MMA / Boxing, Wrestling, and others. The primary focus is on American games, specifically football.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/the-endzone-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install The Endzone Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;7-century-sports&#34;&gt;7. Century Sports
-&lt;/h3&gt;&lt;p&gt;The Century Sports Kodi Addon lists live sporting events and TV channels. The main focus is the USA as well as the UK channel and event information. The add-on features a simple and easy-to-use layout. The sports sections include soccer, football, NBA, and NHL.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/centry-sports-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Century Sports Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;8-fights-on-demand&#34;&gt;8. Fights on Demand
-&lt;/h3&gt;&lt;p&gt;The Fights on Demand Kodi Addon includes UFC, MMA, and boxing events, as well as replays. Fights on Demand has numerous leagues and categories from which you can choose. Additionally, there are some non-Deborad sections.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fights-on-demand-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Fights On Demand Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;9-torque-lite&#34;&gt;9. Torque Lite
-&lt;/h3&gt;&lt;p&gt;Through the Torque Lite Kodi Addon, you can stream live motor racing races and replays. The video content includes Formula 1, MotoGP, V8 Supercars, NASCAR, Super Bikes, and many more motorsports championships. There are sections that show live races, Supercars, TV superbikes, and archives of races.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/torque-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the Torque Lite Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;10-sportowa-tv&#34;&gt;10. Sportowa TV
-&lt;/h3&gt;&lt;p&gt;The Kodi Sportowa Addon is a SportsDevil Fork and is pulling in links from a variety of online sports streaming websites. These include Sport 365, LiveLooker, and Crickfree. This Kodi add-on focuses on live soccer events, tennis, football, cricket, and others.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/sportowa-tv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Sportowa TV Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;11-fight-club&#34;&gt;11. Fight Club
-&lt;/h3&gt;&lt;p&gt;Its Fight Club Addon is a fantastic addon that shows combat sports like boxing, wrestling, or MMA. The sections include RAW, SmackDown, NXT, UFC, PPV, AEW, and numerous others. If you&amp;rsquo;re a fan of combat sports, be sure to check this out. Before you can access the sections, you will need to create a PIN code. Once you have started the addon, it will display a window with all the necessary information.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fight-club-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Fight Club Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;12-purely-wrestling&#34;&gt;12. Purely Wrestling
-&lt;/h3&gt;&lt;p&gt;This Purely Wrestling Kodi Addon is focused on wrestling. You can stream live wrestling, get replays, and access an archive that includes older shows. There are sections for Live Shows and pay-per-views, AEW, NJPW, WrestleMania, and many others. To stream all the content Purely Wrestling Kodi Addons offers, you must use an online service such as Real Debrid.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/purely-wrestling-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Purely Wrestling Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;13-watch-wrestling&#34;&gt;13. Watch Wrestling
-&lt;/h3&gt;&lt;p&gt;The Watch Wrestling Kodi Addon lists wrestling and MMA events organized by various sections. The add-on is very vast and has a lot of content available. The sections have names such as &amp;ldquo;Most Recent Shows,&amp;rdquo; &amp;ldquo;WWE,&amp;rdquo; &amp;ldquo;AEW,&amp;rdquo; &amp;ldquo;Indy,&amp;rdquo; and many more. The main menu is where you will find categories that are general, like &amp;ldquo;WatchProWrestling.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/watch-wrestling-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Watch Wrestling Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;14-apex-sports&#34;&gt;14. Apex Sports
-&lt;/h3&gt;&lt;p&gt;Apex Sports Kodi Addon The Apex Sports Kodi add-on is an all-new extension for your multimedia center that allows you to watch live sports streams and replays. The sections include live games, live TV replays, highlights, and highlights. The sports you will find on ApeX Sports Kodi Addon include the following: ApeX Sports Kodi addon includes the NFL, NBA, NHL, UFC, motor racing, and a lot more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/apex-sports-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Apex Sports Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;15-strikes-allsportz-recaps&#34;&gt;15. Strike&amp;rsquo;s AllSportz Recaps
-&lt;/h3&gt;&lt;p&gt;The Strike&amp;rsquo;s AllSportz Recaps Kodi Addon is a compilation of official sports-related replays and videos that you can view on YouTube. The addon links with official YouTube channels that offer complete game replays, interview highlights, and many, many more. There&amp;rsquo;s plenty of material to discover and a wide range of categories.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/strikes-allsportz-recaps-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download Strike&amp;rsquo;s allSportz AllSportz Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;16-sportz&#34;&gt;16. Sportz
-&lt;/h3&gt;&lt;p&gt;The Sportz Kodi Addon is pulling content on sports taken from YouTube&amp;rsquo;s official YouTube channels. You can view replays of complete games and events, including interviews, highlight clips, highlights, plus bonus content. There are a variety of categories that cover game sports, such as NBA and NFL football/soccer, and motorsports, such as F1, MMA, and wrestling.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/sportz-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Sportz Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;17-wrestlers&#34;&gt;17. Wrestlers
-&lt;/h3&gt;&lt;p&gt;By using the Wrestlers Kodi Addon, you will be able to watch wrestling from around the world. There are sections that comprise WWE Wrestling, AEW Wrestling (All Elite Wrestling), Impact Wrestling, Wrestling Archives and many more. The majority of the links come from YouTube. If you&amp;rsquo;re a fan of wrestling, make sure you look into wrestling&amp;rsquo;s Kodi Addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/wrestlers-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download the Wrestlers Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;18-replay-me&#34;&gt;18. Replay Me
-&lt;/h3&gt;&lt;p&gt;Replay Me Kodi Addon Replay Me Kodi Addon is offering replays for a wide range of sporting events. The sections include NBA, NHL, NFL, UFC, Boxing, and numerous other sports. There are plenty of videos available and playable. If you want to keep up with sports events, you should take a look at this add-on.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/replay-me-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Replay Me Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h2 id=&#34;best-kodi-add-ons-for-live-tv--iptv&#34;&gt;Best Kodi Add Ons for LIVE TV / IPTV
-&lt;/h2&gt;&lt;h3 id=&#34;samsung-tv-plus&#34;&gt;Samsung TV Plus
-&lt;/h3&gt;&lt;p&gt;Through the Samsung TV Plus Kodi Addon, you can access live TV and a wide range of channels that are available 24/7 for films and TV shows. The themes of content and programming include music, news, entertainment, comedy, finance, gaming, and sports. The channels and shows include VICE, CBS News, Kitchen Nightmares, Baywatch, Bloomberg TV, and FUEL TV. Samsung TV Plus can be an absolutely free service offered by Samsung and is 100% legal.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/samsung-tv-plus-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Samsung TV Plus Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;pluto-tv&#34;&gt;Pluto TV
-&lt;/h3&gt;&lt;p&gt;Pluto TV is a free and legal service that provides over 300 channels. Through this Pluto TV Kodi Addon, it is possible to watch all these channels on the Kodi multimedia center. Additionally, you can also access every country without having to switch your IP. This includes the USA, Canada, Great Britain, Germany, and many more. Apart from the standard TV channels, Pluto TV comes with a variety of TV shows that are available 24/7 channels and streams in certain areas.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/pluto-tv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Pluto TV Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;stirr&#34;&gt;STIRR
-&lt;/h3&gt;&lt;p&gt;The STIRR service is a free and legal streaming service that offers over 100 channels. With the Kodi addon for STIRR, you can access all channels and streams. The sections comprise Classic TV, Entertainment, Food &amp;amp; Travel, Movies, Music, news and &amp;amp; Opinions, sports, and much more. It isn&amp;rsquo;t restricted by geography at all, so you can use it from any IP.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/stirr-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the STIRR Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;tvone&#34;&gt;TvOne
-&lt;/h3&gt;&lt;p&gt;TVOne Kodi Addon TVOne Kodi Addon lists live TV channels from around the globe. There are sections for Food, Documentary, Entertainment, Kids, Sports, and other categories. Remember that live TV streaming is unstable at times and might not function properly.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tvone-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the TVOne Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;tvone11&#34;&gt;TVOne11
-&lt;/h3&gt;&lt;p&gt;Its TVOne11 Kodi Addon provides a wide range of TV channels from around the globe. Categories and sections comprise Pakistan TV, India TV, UK TV, USA TV, Sports TV, and numerous others. The add-on is available at The Red Repository. Remember the fact that streaming live on TV may be unstable at times and might not function properly.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tvone11-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up TVOne11 Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;tvone111&#34;&gt;TVOne111
-&lt;/h3&gt;&lt;p&gt;In the TVOne111 Kodi Addon, you have access to broadcasting channels. The add-on can be found in The Red Repository. Sections include Pakistani, Indian, Turkish, UK, USA, and numerous others. Due to live-streaming technology, some channels might not be available at times.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tvone111-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the TVOne111 Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;tvone112&#34;&gt;TVOne112
-&lt;/h3&gt;&lt;p&gt;The TVOne112 Kodi Addon provides an enormous selection of TV stations that are live across the globe. There is a variety of options to select from, including Arabian TV, Australia TV, Sports TV, USA TV, UK TV, and numerous others. The add-on is available at The Red Repository.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tvone112-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up TVOne112 Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;tvone1112&#34;&gt;TVOne1112
-&lt;/h3&gt;&lt;p&gt;The TVOne1112 Kodi Addon is part of The Red Repository and comes with numerous listings for live television channels. Channels are organized by genre or country. The categories include sports, entertainment, Food, News, Cooking Kids, Music, and more. Be aware that live television technology can be unstable and is not always reliable.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tvone1112-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the TVOne1112 Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;thetvapp&#34;&gt;TheTVApp
-&lt;/h3&gt;&lt;p&gt;The TheTVApp Kodi Addon lists US live TV channels as well as live sporting events. There are sections that are comprised of live TV, NBA, MLB, NHL, and NFL. The events and channels are sourced from a single website that has an identical name. The add-on is available within the Diggz Repository. Diggz Repository.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/thetvapp-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download and install TheTVApp Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;lntv&#34;&gt;LNTv
-&lt;/h3&gt;&lt;p&gt;Through LNTv&amp;rsquo;s Kodi Addon, you can watch live international and national TV. Channels are categorized according to their subject matter or by their country of origin. They are divided into sections like Sports, Entertainment News, News, Kids, Documentaries, movies, the United States, Canada, Germany, and many more. LNTv is a rebranding of LiveNet Kodi. LiveNet Kodi Addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/lntv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the LNTv Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;rbtv&#34;&gt;RBTv
-&lt;/h3&gt;&lt;p&gt;RBTv Kodi Addon lists TV channels across the globe. The channels are comprised of sports, Indian, UK, USA, German, Canada, and more. It is situated in the Asylum of LooNatics. The TvOne111, relabeled RBTv, is a rebranded Kodi Addon and is currently one of the most effective devices for Live TV channels.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/rbtv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the RBTv Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;taptv&#34;&gt;TapTv
-&lt;/h3&gt;&lt;p&gt;The TapTv Kodi Addon gives users access to an extensive selection of live TV channels across the world. The channels available include Documentary entertainment, Entertainment, Kids&amp;rsquo; Sports, and much more. The channels listed are in addition to others, including those from the United States, the United Kingdom, Canada, and Germany. TapTv has been rebranded as an edition of ACME TapTv Kodi Addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/taptv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install TapTv Kodi&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;plex-live&#34;&gt;Plex Live
-&lt;/h3&gt;&lt;p&gt;Plex Live Kodi Addon Plex Live Kodi Addon offers legal and free live TV channels across a variety of nations. There are over 200 channels to choose from. They are mostly American and speak the English language. Channels cover topics like entertainment, lifestyle games, sports news, and crime. Included are the USA, Canada, Brazil, Mexico, Germany, India, and many more. No subscription is needed!&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/plex-live-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Plex Live Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;mega-iptv&#34;&gt;Mega IPTV
-&lt;/h3&gt;&lt;p&gt;The Mega IPTV Kodi Addon contains various legal and free live TV channel lists sourced from the internet. The sections include IPTV ORG Channels according to Country. Fluxus Channels are by category, and Free-IPTV is by country. The list of channels is obtained from GitHub and other similar websites. The lists included in this addon are completely legal.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/mega-iptv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Mega IPTV Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;world-live-tv&#34;&gt;World Live TV
-&lt;/h3&gt;&lt;p&gt;Through the World Live TV Kodi Addon, you can enjoy free IPTV across the globe. The channels are all free to air and completely legal. The add-on also has the capability to create and manage channels with content that you enjoy. Additionally, using World Live TV, you can listen to radio stations and check out skyline webcams.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/world-live-tv-kodi-addon-live-tv/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up World Live TV Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;fetch&#34;&gt;Fetch
-&lt;/h3&gt;&lt;p&gt;By using the Fetch Kodi addon, you can enjoy English or international channels on live television. The main focus is on US channels and English channels, but there are categories that include international channels. The categories comprise the International Channel List, English Channel List, Redbox, LG, The Roku Channel, Samsung TV Plus, PBS, Plex, and many others. The add-on provides many streaming channels.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fetch-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the Fetch Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;catch-up-tv--more-kodi-addon&#34;&gt;Catch-up TV &amp;amp; More Kodi Addon
-&lt;/h3&gt;&lt;p&gt;With the Catch-up Television and more Kodi Addon, you can watch live TV from around the globe. The countries included include the USA, United Kingdom, Canada, France, Switzerland, Belgium, Japan, and numerous others. There&amp;rsquo;s also a catch-up television section that lets you watch TV shows again and videos of other kinds. Additionally, the Catch-up TV and More Kodi Add-on lets you access sites with more content available to stream.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/catch-up-tv-more-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do you install Catch-up TV &amp;amp; more Addon for Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;swifttv&#34;&gt;SwiftTv
-&lt;/h3&gt;&lt;p&gt;The SwiftTV Kodi Addon comes with an extensive list of live television channels from around the globe. Channels are categorized by language and country. The channels comprise UK TV, USA TV, sports TV, Punjabi TV, South Indian, kids&amp;rsquo; TV, and numerous others. SwiftTv is a replacement for the older ACME Swift Kodi Addon, and in actuality, it&amp;rsquo;s a rebranded version.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/swifttv-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up SwiftTv Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;best-kodi-add-ons-for-anime--cartoons&#34;&gt;Best Kodi Add Ons for ANIME &amp;amp; CARTOONS
-&lt;/h2&gt;&lt;h3 id=&#34;otaku&#34;&gt;Otaku
-&lt;/h3&gt;&lt;p&gt;The Otaku Kodi Addon lists anime movies and TV shows. It also has the ability to find videos from different sources. Otaku is an extension of the popular Kaito add-on and has lots of content to browse through. The sections comprise Airing Anime Calender, Movives TV shows, Popular This Year, Popular This Season, Top 100 Anime, and numerous others. Otaku doesn&amp;rsquo;t require an account with a Real Debrid membership in all situations, but you&amp;rsquo;re permitted to use it.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/otaku-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Otaku Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;watchnixtoons2&#34;&gt;WatchNixtoons2
-&lt;/h3&gt;&lt;p&gt;This WatchNixtoons2 Kodi Addon is one of the top add-ons available for cartoons and animations. There&amp;rsquo;s a huge amount of content that is taken from a single website, so you don&amp;rsquo;t need to play around with multihosters for anything. The majority of videos are in their original Japanese language, with English subtitles as well, English the language (subbed or the dubbed version).&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/watchnixtoons2-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the WatchNixtoons2 Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;fanime-f&#34;&gt;Fanime F
-&lt;/h3&gt;&lt;p&gt;It is the Fanime F Kodi Addon, which is an anime add-on found within the All Anime Repository. The sections include recent releases from A to Z Genres, the New Seasons ongoing series, and others. Fanime F is a fork of the original FANime add-on, but it does not have the complicated process of generating a PIN.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fanime-f-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Fanime F Kodi addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;gogoanime&#34;&gt;Gogoanime
-&lt;/h3&gt;&lt;p&gt;The Gogoanime Kodi Addon lists anime videos in the original Japanese language, with English subtitles. The add-on pulls content from a specific website with an identical name. The categories include Recently Viewed Releases, Popular Anime, View by Genres, and much more. Every video is linked to various hosters to ensure access.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/gogoanime-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Gogoanime Kodi addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;haru&#34;&gt;Haru
-&lt;/h3&gt;&lt;p&gt;Haru Kodi Addon Haru Kodi Addon lists Anime TV shows that are available on a particular website. The addon can be found in Pikdum&amp;rsquo;s Repository. The categories are SubsPlease, Torrents, Experimental, and many more. You must reauthorize the account you have created with your Real Debrid account in the ResolveURL settings, or Haru might not function properly.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/haru-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Haru Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;fanime&#34;&gt;FANime
-&lt;/h3&gt;&lt;p&gt;The FANime Kodi addon lists anime TV and film shows. There are sections for Recent Releases, Genres, New Seasons, Ongoing Series, and others. People who love manga and Japanese cartoons ought to take a look at this add-on. You must be aware that you will need to create a PIN before you are able to access the content. When you launch the addon, the addon, a popup window will appear with all the necessary information.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fanime-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the FANime Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h2 id=&#34;best-kodi-add-ons-for-music&#34;&gt;Best Kodi Add Ons for MUSIC
-&lt;/h2&gt;&lt;h3 id=&#34;mp3-streams&#34;&gt;MP3 Streams
-&lt;/h3&gt;&lt;p&gt;Through the MP3Streams Kodi add-on, you can enjoy songs from your favorite artist and band. There are a variety of categories to pick from, such as Artists Top Albums Compilations, Billboard Charts, and many more. Additionally, there are playlists and shuffle options for playing random songs.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/mp3-streams-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up MP3 streams on Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;karaoke-free&#34;&gt;Karaoke Free
-&lt;/h3&gt;&lt;p&gt;The Karaoke Free Kodi Addon lists the free videos of your most loved music tracks for karaoke. The addon can be found within the G-Source Repository. The sections comprise Search The Most Popular Recent, Latest, and Browse Artist Genre, and many more. These videos come directly from YouTube.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/karaoke-free-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Karaoke Free Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;fdjhd&#34;&gt;FDJ.HD
-&lt;/h3&gt;&lt;p&gt;The FDJ.HD Kodi Addon is an extension for music lovers who love videos such as concerts, DJ sets, documentaries, and other related music content. FDJ.HD has some distinct areas and groups. Additionally, you&amp;rsquo;ll find soundtracks for video games and a few free movies. All videos are taken from YouTube.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/fdj-hd-kodi-addon-music-videos-concerts/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download and install the FDJ.HD Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h2 id=&#34;best-international-kodi-addons&#34;&gt;Best INTERNATIONAL Kodi Addons
-&lt;/h2&gt;&lt;h3 id=&#34;alfa-spanish&#34;&gt;Alfa (Spanish)
-&lt;/h3&gt;&lt;p&gt;This Alfa Kodi Addon is an add-on to TV and movie shows that are in Spanish. It is currently the best option if you wish to view video content dubbing in Spanish.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/alfa-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Alfa Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;tv-chopo-spanish&#34;&gt;TV Chopo (Spanish)
-&lt;/h3&gt;&lt;p&gt;Its TV Chopo Kodi Addon is an extensive addon that supports Spanish media content. There are sections devoted to Spanish and Latin television shows, movies, documentaries, sports, documentaries, live TV, and much more. Certain sections require you to install additional Kodi add-ons that are all available from this repository.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/tv-chopo-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the TV Chopo Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;oneplay-portuguese&#34;&gt;OnePlay (Portuguese)
-&lt;/h3&gt;&lt;p&gt;Its OnePlay Kodi Addon lists video content in Portuguese. The sections comprise TV Ao Vivo, films, Series, Desenhos, Animes, novels, and more. If you&amp;rsquo;re interested in Portuguese videos, you must look into this tool.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/oneplay-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the OnePlay Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;brazuca-play-portuguese&#34;&gt;Brazuca Play (Portuguese)
-&lt;/h3&gt;&lt;p&gt;It is the Brazuca Play Kodi add-on, which is an add-on to videos in the Portuguese language. There are sections for films, television shows, live television channels, sports, and much more. At the moment, Brazuca Play is running very well and has plenty of content available.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/brazuca-play-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Brazuca the Play Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;apollo-portuguese&#34;&gt;Apollo (Portuguese)
-&lt;/h3&gt;&lt;p&gt;With the Apollo Kodi Addon, you can discover video content such as movies and TV shows in the Portuguese language. This addon is offered in the style of the playlist with regularly updated hyperlinks and segments. Latin Americans and fans of high-quality Portuguese and Brazilian videos must definitely check it out.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/apollo-kodi-addon-portuguese/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Apollo Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;deccan-delight-bollywood--indian&#34;&gt;Deccan Delight (Bollywood / Indian)
-&lt;/h3&gt;&lt;p&gt;The Deccan Delight Kodi Addon provides TV shows, movies, and catch-up TV channels for Indian users. The languages include Tamil, Hindi, Telugu, Urdu, Kannada, Malayalam, and numerous others. It is currently one of the top add-ons for users from India. In this guide, we will show you the steps to set up the Deccan Delight Kodi Addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/deccan-delight-kodi-addon-indian/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the Deccan Delight Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;bolly-2-tolly-indian&#34;&gt;Bolly 2 Tolly (Indian)
-&lt;/h3&gt;&lt;p&gt;Bolly 2 Tolly Kodi Addon Bolly 2 Tolly Kodi Addon provides Indian video content on a specific website bearing a similar name. The addon is part of the Mbebe Repository. The sections comprise all movies in English, Hindi, Telugu, Tamil, and more.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/bolly-2-tolly-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Bolly 2 Kodi addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;vstream-french&#34;&gt;VStream (French)
-&lt;/h3&gt;&lt;p&gt;VStream Kodi Addon has been among the top add-ons for streaming video in French. There are many various sections and filters to pick from. Apart from the great working categories for films and TV shows, there are additional sections for documentaries, anime, and sports, among others.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/vstream-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download vStream? Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;dramacool-asian&#34;&gt;Dramacool (Asian)
-&lt;/h3&gt;&lt;p&gt;It is the Dramacool Kodi Addon, which is a new addition that allows you to watch Asian television and movies. The videos come from different Asia-based countries, including Korea, Japan, China, Hong Kong, Thailand and more. There are numerous filters and sections that will help you find the right content quickly.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/dramacool-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I download and install Dramacool Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;icdrama&#34;&gt;IcDrama
-&lt;/h3&gt;&lt;p&gt;This IcDrama Kodi Addon shows movies and TV programs with subtitles in Chinese, Japanese, Korean, and Taiwanese. There are many categories to choose from, and video content is available in a variety of languages with subtitles.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/icdrama-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install IcDrama Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;duboku-asian&#34;&gt;Duboku (Asian)
-&lt;/h3&gt;&lt;p&gt;Duboku is an online platform for Asian television shows, movies, and anime. Through Duboku Kodi Addon, you can stream videos that originate from Korea, China, Hong Kong, Taiwan, and many other countries. Each section has filters that allow you to locate the content you want quickly.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/duboku-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install Duboku Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;kshowonline-korean&#34;&gt;KShowOnline (Korean)
-&lt;/h3&gt;&lt;p&gt;With the KShowOnline Kodi Addon, you can watch Korean variety shows on the internet. The content is taken from a site with a similar name. There are numerous television shows available, as well as sections for updates and the most popular videos.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/kshowonline-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the KShowOnline Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;iwanttfc-kodi-addon-filipino&#34;&gt;iWantTFC Kodi Addon (Filipino)
-&lt;/h3&gt;&lt;p&gt;Through the iWantTFC Kodi Addon, you can access all content from TFC.tv through the Kodi multimedia center. TFC.tv is a Filipino streaming site that provides programming such as movies, TV shows, and live streams. The service is accessible worldwide. The sections consist of Live Streams, Recently Added MMK, ABS-CBN, Date Night Movies, and many others.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/iwanttfc-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the IWantTFC Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h2 id=&#34;best-kodi-add-ons-for-maintenance-and-tools&#34;&gt;Best Kodi Add Ons for MAINTENANCE and TOOLS
-&lt;/h2&gt;&lt;h3 id=&#34;ez-maintenance&#34;&gt;EZ Maintenance
-&lt;/h3&gt;&lt;p&gt;By using this EZ Maintenance Kodi Addon, you&amp;rsquo;ll be able to keep your Kodi clean, quick, and tidy. It&amp;rsquo;s a simple maintenance tool without clutter, pop-ups, or ads. In just a few seconds, you&amp;rsquo;ll be able to clean off the Kodi cache, uninstall old programs, alter the size of your buffer for smooth video streaming, and many more. The Kodi add-on will automatically determine the best video cache settings, which is an extremely useful feature.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/ez-maintenance-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the EZ Maintenance Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;open-wizard&#34;&gt;Open Wizard
-&lt;/h3&gt;&lt;p&gt;The Open Wizard Kodi Addon is a successor to the renowned Aftermath Kodi addon and made specifically for Kodi 18 Leia. The add-on offers a range of instruments for maintenance, e.g., cleaning the Kodi cache and deleting thumbnails, outdated logs, packages, and so on. Additionally, there is an option to backup and restore and an uploader for logs. It is also possible to modify your AdvancedSettings.xml file inside your Open Wizard Kodi addon.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/open-wizard-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install the Open Wizard Kodi addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;aliunde-matrix-maintenance-wizard&#34;&gt;Aliunde Matrix Maintenance Wizard
-&lt;/h3&gt;&lt;p&gt;The Aliunde Matrix Maintenance Wizard Kodi Addon is a valuable tool for managing and cleaning the Kodi Media Center. Through this Aliunde Matrix Maintenance Wizard Kodi Addon, you can clean all caches and thumbnails, do backups and restores, create an AdvancedSettings.xml and many more. In a recent update, this maintenance tool is operating in conjunction with Kodi 19 Matrix.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/aliunde-maintenance-wizard-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up Aliunde Matrix Maintenance Wizard Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;a4ksubtitles&#34;&gt;a4kSubtitles
-&lt;/h3&gt;&lt;p&gt;The A4kSubtitles Kodi Addon is a very useful tool to scrape subtitles. In contrast to other addons, a4kSubtitles can search several subtitle services, such as OpenSubtitles as well as Subscene. Naturally, you&amp;rsquo;re not restricted to the English language only. Any language that is available can be used. In our tutorial below, we will show you what you need to do in order to download the A4kSubtitles Kodi Addon, along with how to alter the preferred subtitle language within Your Kodi settings.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/a4ksubtitles-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I install A4kSubtitles Kodi Addon&lt;/a&gt;?&lt;/p&gt;
-&lt;h3 id=&#34;cocoscrapers-module&#34;&gt;CocoScrapers Module
-&lt;/h3&gt;&lt;p&gt;The CocoScrapers Modula Kodi Addon lets you search multiple sources for videos. The CocoScrapers module cannot function on its own but should be utilized together with an addon like Umbrella and Fen. Once you have installed the CocoScrapers module, the scraper should be set by the setting of the appropriate add-on.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/cocoscrapers-module-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I set up the CocoScrapers module Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;rumble&#34;&gt;Rumble
-&lt;/h3&gt;&lt;p&gt;By installing the Rumble Kodi Addon, you can view all the videos on the Rumble website through your media player. The add-on is available within the OnePlay Repository. Rumble is an online video platform that is an alternative to YouTube. It has gained popularity in the past few years. Video sections comprise Search Favorites, News, Favorites Podcast, Entertainment, and others.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.kodi-guide.com/rumble-kodi-addon/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;How do I Install the Rumble Kodi Addon&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;faqs---what-people-ask&#34;&gt;FAQs - what people ask
-&lt;/h2&gt;&lt;h3 id=&#34;are-kodi-addons-free&#34;&gt;Are Kodi addons free?
-&lt;/h3&gt;&lt;p&gt;Absolutely, Kodi addons are free to download. They typically offer free content, including live TV, movies, television shows, as well as music and sports. Some, however, require a monthly subscription from an online television provider, streaming service, or even a premium host like Real Debrid.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-the-most-effective-one-stop-kodi-addon&#34;&gt;What is the most effective one-stop Kodi Addon?
-&lt;/h3&gt;&lt;p&gt;There are a variety of amazing all-in-one Kodi add-ons available, including &lt;a class=&#34;link&#34; href=&#34;https://www.firesticktricks.com/asgard-kodi-addon.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Asgard&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.firesticktricks.com/crew-kodi-addon.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;The Crew&lt;/a&gt;, &lt;a class=&#34;link&#34; href=&#34;https://www.firesticktricks.com/nemesis-aio-kodi-addon.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Nemesis&lt;/a&gt;, and  &lt;a class=&#34;link&#34; href=&#34;https://www.firesticktricks.com/metv-kodi-addon.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;M-E-T-V&lt;/a&gt;. The Crew is, however, &lt;a class=&#34;link&#34; href=&#34;https://www.firesticktricks.com/crew-kodi-addon.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;It is the Crew&lt;/a&gt; can be the most well-known and reliable.&lt;/p&gt;
-&lt;h3 id=&#34;which-addons-can-you-download-for-kodi&#34;&gt;Which addons can you download for Kodi?
-&lt;/h3&gt;&lt;p&gt;Installing an addon for Kodi involves a series of steps. This includes finding the repository URL, altering Kodi settings to allow non-official add-ons, and then installing the add-on via its repository. We&amp;rsquo;ve provided links to individual instructions for installing each Kodi add-on on this list.&lt;/p&gt;
-&lt;h3 id=&#34;are-kodi-addons-legal&#34;&gt;Are Kodi addons legal?
-&lt;/h3&gt;&lt;p&gt;Although Kodi is an official media player, a few add-ons have serious legal issues. The official Kodi addons, which are hosted by Kodi&amp;rsquo;s Official Repository Kodi Official Repository, are 100% legal. However, we cannot confirm the legality of third-party add-ons. Always &lt;a class=&#34;link&#34; href=&#34;https://www.firesticktricks.com/best-vpn-kodi.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;make use of a VPN&lt;/a&gt; to conceal your online activity when you stream on these add-ons.&lt;/p&gt;
-&lt;h3 id=&#34;what-is-the-reason-why-certain-kodi-add-ons-arent-working&#34;&gt;What is the reason why certain Kodi add-ons aren&amp;rsquo;t working?
-&lt;/h3&gt;&lt;p&gt;Kodi add-ons might not perform due to various reasons. They could be incompatible versions of the Kodi version, outdated versions of the source, not being available, or inattention by developers. It is possible to check with other Kodi users on online forums or websites like FireStickTricks.com to find out if a Kodi add-on has stopped working.&lt;/p&gt;
-&lt;h3 id=&#34;last-words&#34;&gt;Last words
-&lt;/h3&gt;&lt;p&gt;Here is our collection of the most popular Kodi add-ons for TV shows, movies, sports, live TV, and many more. These add-ons are compatible with Kodi 21 and Kodi 20. Some of them are fully compatible with Kodi 19 and Kodi 18.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Galactic Marvels: The Most Spectacular Nebulas in the Cosmos</title>
-        <link>https://demo.stack.jimmycai.com/p/galactic-marvels/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/galactic-marvels/</link>
         <pubDate>Sun, 24 Sep 2023 11:15:17 +0700</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/galactic-marvels/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/images/nasa-rTZW4f02zY8-unsplash.jpg" alt="Featured image of post Galactic Marvels: The Most Spectacular Nebulas in the Cosmos" /&gt;&lt;p&gt;In the vast expanse of the cosmos, one cannot help but be captivated by the breathtaking beauty of nebulae. These celestial marvels are often hidden in the depths of space, waiting to be discovered and admired by astronomers and space enthusiasts alike. In this article, we will embark on a cosmic journey to explore some of the most spectacular nebulas in the cosmos, shedding light on their unique features and the mysteries they hold.&lt;/p&gt;
+        <guid>https://bemohcine.github.io/BlogCine/p/galactic-marvels/</guid>
+        <description>&lt;img src="https://bemohcine.github.io/BlogCine/images/nasa-rTZW4f02zY8-unsplash.jpg" alt="Featured image of post Galactic Marvels: The Most Spectacular Nebulas in the Cosmos" /&gt;&lt;p&gt;In the vast expanse of the cosmos, one cannot help but be captivated by the breathtaking beauty of nebulae. These celestial marvels are often hidden in the depths of space, waiting to be discovered and admired by astronomers and space enthusiasts alike. In this article, we will embark on a cosmic journey to explore some of the most spectacular nebulas in the cosmos, shedding light on their unique features and the mysteries they hold.&lt;/p&gt;
 &lt;h2 id=&#34;1-the-eagle-nebula-a-stellar-nursery&#34;&gt;1. The Eagle Nebula: A Stellar Nursery
 &lt;/h2&gt;&lt;p&gt;The Eagle Nebula, also known as Messier 16, is a striking star-forming region in the Serpens constellation. This celestial nursery is famous for the Pillars of Creation, towering columns of gas and dust where new stars are born. The Eagle Nebula&amp;rsquo;s intricate interplay of light and shadow is a testament to the cosmos&amp;rsquo; artistic prowess.&lt;/p&gt;
 &lt;h2 id=&#34;2-the-orion-nebula-jewel-of-orions-sword&#34;&gt;2. The Orion Nebula: Jewel of Orion&amp;rsquo;s Sword
@@ -1594,10 +51,10 @@ Lab Kodi Addon Lab Kodi Addon is an all-in-one add-on that is part of The Lab Re
         </item>
         <item>
         <title>Markdown Syntax Guide</title>
-        <link>https://demo.stack.jimmycai.com/p/markdown-syntax-guide/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/markdown-syntax-guide/</link>
         <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/markdown-syntax-guide/</guid>
+        <guid>https://bemohcine.github.io/BlogCine/p/markdown-syntax-guide/</guid>
         <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
 &lt;h2 id=&#34;headings&#34;&gt;Headings
 &lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
@@ -1794,11 +251,11 @@ Lab Kodi Addon Lab Kodi Addon is an all-in-one add-on that is part of The Lab Re
         </item>
         <item>
         <title>Image gallery</title>
-        <link>https://demo.stack.jimmycai.com/p/image-gallery/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/image-gallery/</link>
         <pubDate>Sat, 26 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/image-gallery/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/p/image-gallery/2.jpg" alt="Featured image of post Image gallery" /&gt;&lt;p&gt;Hugo theme Stack supports the creation of interactive image galleries using Markdown. It&amp;rsquo;s powered by &lt;a class=&#34;link&#34; href=&#34;https://photoswipe.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://bemohcine.github.io/BlogCine/p/image-gallery/</guid>
+        <description>&lt;img src="https://bemohcine.github.io/BlogCine/p/image-gallery/2.jpg" alt="Featured image of post Image gallery" /&gt;&lt;p&gt;Hugo theme Stack supports the creation of interactive image galleries using Markdown. It&amp;rsquo;s powered by &lt;a class=&#34;link&#34; href=&#34;https://photoswipe.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;PhotoSwipe&lt;/a&gt; and its syntax was inspired by &lt;a class=&#34;link&#34; href=&#34;https://typlog.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Typlog&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To use this feature, the image must be in the same directory as the Markdown file, as it uses Hugo&amp;rsquo;s page bundle feature to read the dimensions of the image. &lt;strong&gt;External images are not supported.&lt;/strong&gt;&lt;/p&gt;
@@ -1812,10 +269,10 @@ Lab Kodi Addon Lab Kodi Addon is an all-in-one add-on that is part of The Lab Re
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;result&#34;&gt;Result
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/p/image-gallery/1.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://bemohcine.github.io/BlogCine/BlogCine/p/image-gallery/1.jpg&#34;
 	width=&#34;2000&#34;
 	height=&#34;1400&#34;
-	srcset=&#34;https://demo.stack.jimmycai.com/p/image-gallery/1_hu4574578169203714971.jpg 480w, https://demo.stack.jimmycai.com/p/image-gallery/1_hu9042511268598201431.jpg 1024w&#34;
+	srcset=&#34;https://bemohcine.github.io/BlogCine/BlogCine/p/image-gallery/1_hu4574578169203714971.jpg 480w, https://bemohcine.github.io/BlogCine/BlogCine/p/image-gallery/1_hu9042511268598201431.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 1&#34;
@@ -1825,10 +282,10 @@ Lab Kodi Addon Lab Kodi Addon is an all-in-one add-on that is part of The Lab Re
 		data-flex-grow=&#34;142&#34;
 		data-flex-basis=&#34;342px&#34;
 	
-&gt; &lt;img src=&#34;https://demo.stack.jimmycai.com/p/image-gallery/2.jpg&#34;
+&gt; &lt;img src=&#34;https://bemohcine.github.io/BlogCine/BlogCine/p/image-gallery/2.jpg&#34;
 	width=&#34;1500&#34;
 	height=&#34;2250&#34;
-	srcset=&#34;https://demo.stack.jimmycai.com/p/image-gallery/2_hu10699635480308914167.jpg 480w, https://demo.stack.jimmycai.com/p/image-gallery/2_hu1741040415904021193.jpg 1024w&#34;
+	srcset=&#34;https://bemohcine.github.io/BlogCine/BlogCine/p/image-gallery/2_hu10699635480308914167.jpg 480w, https://bemohcine.github.io/BlogCine/BlogCine/p/image-gallery/2_hu1741040415904021193.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;Image 2&#34;
@@ -1849,11 +306,11 @@ Lab Kodi Addon Lab Kodi Addon is an all-in-one add-on that is part of The Lab Re
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>https://demo.stack.jimmycai.com/p/shortcodes/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/shortcodes/</link>
         <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/shortcodes/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/p/shortcodes/cover.jpg" alt="Featured image of post Shortcodes" /&gt;&lt;p&gt;For more details, check out the &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/writing/shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://bemohcine.github.io/BlogCine/p/shortcodes/</guid>
+        <description>&lt;img src="https://bemohcine.github.io/BlogCine/p/shortcodes/cover.jpg" alt="Featured image of post Shortcodes" /&gt;&lt;p&gt;For more details, check out the &lt;a class=&#34;link&#34; href=&#34;https://stack.jimmycai.com/writing/shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;documentation&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;bilibili-video&#34;&gt;Bilibili video
 &lt;/h2&gt;
@@ -1932,10 +389,10 @@ Lab Kodi Addon Lab Kodi Addon is an all-in-one add-on that is part of The Lab Re
         </item>
         <item>
         <title>Math Typesetting</title>
-        <link>https://demo.stack.jimmycai.com/p/math-typesetting/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/math-typesetting/</link>
         <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/math-typesetting/</guid>
+        <guid>https://bemohcine.github.io/BlogCine/p/math-typesetting/</guid>
         <description>&lt;p&gt;Stack has built-in support for math typesetting using &lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KaTeX&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;It&amp;rsquo;s not enabled by default side-wide,&lt;/strong&gt; but you can enable it for individual posts by adding &lt;code&gt;math: true&lt;/code&gt; to the front matter. Or you can enable it side-wide by adding &lt;code&gt;math = true&lt;/code&gt; to the &lt;code&gt;params.article&lt;/code&gt; section in &lt;code&gt;config.toml&lt;/code&gt;.&lt;/p&gt;
@@ -1982,19 +439,19 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Archives</title>
-        <link>https://demo.stack.jimmycai.com/archives/</link>
+        <link>https://bemohcine.github.io/BlogCine/archives/</link>
         <pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/archives/</guid>
+        <guid>https://bemohcine.github.io/BlogCine/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>Chinese Test</title>
-        <link>https://demo.stack.jimmycai.com/p/test-chinese/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/test-chinese/</link>
         <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/test-chinese/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+        <guid>https://bemohcine.github.io/BlogCine/p/test-chinese/</guid>
+        <description>&lt;img src="https://bemohcine.github.io/BlogCine/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Chinese Test" /&gt;&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
 &lt;/h2&gt;&lt;p&gt;而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。&lt;/p&gt;
 &lt;p&gt;奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。&lt;/p&gt;
 &lt;h2 id=&#34;引用&#34;&gt;引用
@@ -2007,7 +464,7 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
     &gt;最暖的憂傷 - 田馥甄&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&#34;图片&#34;&gt;图片
-&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://bemohcine.github.io/BlogCine/BlogCine/florian-klauer-nptLmg6jqDo-unsplash.jpg&#34;
 	
 	
 	
@@ -2016,7 +473,7 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 		alt=&#34;Photo by Florian Klauer on Unsplash&#34;
 	
 	
-&gt;  &lt;img src=&#34;https://demo.stack.jimmycai.com/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://bemohcine.github.io/BlogCine/BlogCine/luca-bravo-alS7ewQ41M8-unsplash.jpg&#34;
 	
 	
 	
@@ -2026,7 +483,7 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 	
 	
 &gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
+&lt;p&gt;&lt;img src=&#34;https://bemohcine.github.io/BlogCine/BlogCine/helena-hertz-wWZzXlDpMog-unsplash.jpg&#34;
 	
 	
 	
@@ -2035,7 +492,7 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 		alt=&#34;Photo by Helena Hertz on Unsplash&#34;
 	
 	
-&gt;  &lt;img src=&#34;https://demo.stack.jimmycai.com/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
+&gt;  &lt;img src=&#34;https://bemohcine.github.io/BlogCine/BlogCine/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&#34;
 	
 	
 	
@@ -2063,10 +520,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Rich Content</title>
-        <link>https://demo.stack.jimmycai.com/p/rich-content/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/rich-content/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/rich-content/</guid>
+        <guid>https://bemohcine.github.io/BlogCine/p/rich-content/</guid>
         <description>&lt;p&gt;Hugo ships with several &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
@@ -2163,11 +620,11 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Emoji Support</title>
-        <link>https://demo.stack.jimmycai.com/p/emoji-support/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/emoji-support/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/emoji-support/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+        <guid>https://bemohcine.github.io/BlogCine/p/emoji-support/</guid>
+        <description>&lt;img src="https://bemohcine.github.io/BlogCine/p/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post Emoji Support" /&gt;&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
 &lt;p&gt;The &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/functions/emojify/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a class=&#34;link&#34; href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
@@ -2194,10 +651,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>About</title>
-        <link>https://demo.stack.jimmycai.com/about/</link>
+        <link>https://bemohcine.github.io/BlogCine/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/about/</guid>
+        <guid>https://bemohcine.github.io/BlogCine/about/</guid>
         <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
@@ -2222,15 +679,15 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>ALL</title>
-        <link>https://demo.stack.jimmycai.com/p/all/</link>
+        <link>https://bemohcine.github.io/BlogCine/p/all/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/p/all/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/ALL" alt="Featured image of post ALL" /&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
+        <guid>https://bemohcine.github.io/BlogCine/p/all/</guid>
+        <description>&lt;img src="https://bemohcine.github.io/BlogCine/ALL" alt="Featured image of post ALL" /&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
 &lt;/h4&gt;&lt;h2 id=&#34;screenshots&#34;&gt;Screenshots
-&lt;/h2&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/Movies-Section.webp&#34; alt=&#34;Movies Section&#34; width=&#34;300&#34; /&gt;
+&lt;/h2&gt;&lt;img src=&#34;https://bemohcine.github.io/BlogCine/images/Movies-Section.webp&#34; alt=&#34;Movies Section&#34; width=&#34;300&#34; /&gt;
 &lt;ul&gt;
-&lt;li&gt;what &lt;img src=&#34;https://demo.stack.jimmycai.com/images/aaa.webp&#34;
+&lt;li&gt;what &lt;img src=&#34;https://bemohcine.github.io/BlogCine/images/aaa.webp&#34;
 	
 	
 	
@@ -2252,7 +709,7 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/The-Crew-Kodi-Addon-Main-Menu.webp&#34;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://bemohcine.github.io/BlogCine/images/The-Crew-Kodi-Addon-Main-Menu.webp&#34;
 	
 	
 	
@@ -2262,7 +719,7 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 	
 	
 &gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://demo.stack.jimmycai.com/images/Movies-Section.webp&#34;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;img src=&#34;https://bemohcine.github.io/BlogCine/images/Movies-Section.webp&#34;
 	
 	
 	
@@ -2313,71 +770,11 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;/h4&gt;</description>
         </item>
         <item>
-        <title>DIMA</title>
-        <link>https://demo.stack.jimmycai.com/p/dima/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://demo.stack.jimmycai.com/p/dima/</guid>
-        <description>&lt;img src="https://demo.stack.jimmycai.com/DIMA" alt="Featured image of post DIMA" /&gt;&lt;blockquote&gt;
-&lt;h2 id=&#34;attention-protect-your-privacy-online&#34;&gt;Attention: Protect Your Privacy Online
-&lt;/h2&gt;&lt;/blockquote&gt;
-&lt;p&gt;Be aware that streaming videos may be prohibited in your specific country. Online privacy protection is becoming more essential. We suggest using the use of a VPN. A VPN safeguards your online activity and prevents your service provider and other authorities from scrutinizing your online activities.&lt;/p&gt;
-&lt;p&gt;Through the use of a VPN, you can also alter your address so that you can gain access to services not available at the place you reside.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;We suggest using the most reliable Kodi VPN for 2024.&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://protonvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;ProtonVPN&lt;/a&gt;: The most efficient way to increase your speed.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.privateinternetaccess.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Access VPN for Privacy Access VPN&lt;/a&gt;: The best choice for those with a tight budget.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://surfshark.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Surfshark VPN&lt;/a&gt;: Great for usability.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://nordvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;NordVPN&lt;/a&gt;: Best for average speeds.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cyberghostvpn.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CyberGhost VPN&lt;/a&gt; is the best VPN for a long trial period.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://koditricks.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Koditricks.com&lt;/a&gt; is not associated with the creators of Kodi addons. We have no control over the contents of Kodi addons, nor do we recommend that our users take action against copyright violations.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;what &lt;img src=&#34;https://demo.stack.jimmycai.com/images/aaa.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;aaa&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;what &lt;img src=&#34;https://demo.stack.jimmycai.com/images/aaa.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;aaa&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;li&gt;what &lt;img src=&#34;https://demo.stack.jimmycai.com/images/aaa.webp&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;aaa&#34;
-	
-	
-&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        </item>
-        <item>
         <title>Links</title>
-        <link>https://demo.stack.jimmycai.com/links/</link>
+        <link>https://bemohcine.github.io/BlogCine/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/links/</guid>
+        <guid>https://bemohcine.github.io/BlogCine/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -2409,10 +806,10 @@ $$&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
         </item>
         <item>
         <title>Search</title>
-        <link>https://demo.stack.jimmycai.com/search/</link>
+        <link>https://bemohcine.github.io/BlogCine/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/search/</guid>
+        <guid>https://bemohcine.github.io/BlogCine/search/</guid>
         <description></description>
         </item>
         
