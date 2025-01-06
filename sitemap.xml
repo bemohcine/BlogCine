@@ -2,83 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bemohcine.github.io/BlogCine/p/hello-world/</loc>
+    <loc>https://bemohcine.github.io/guide/p/hello-world/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/</loc>
+    <loc>https://bemohcine.github.io/guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/categories/</loc>
+    <loc>https://bemohcine.github.io/guide/categories/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/css/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/css/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/html/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/html/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/markdown/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/markdown/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/p/markdown-syntax-guide/</loc>
+    <loc>https://bemohcine.github.io/guide/p/markdown-syntax-guide/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/post/</loc>
+    <loc>https://bemohcine.github.io/guide/post/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/categories/syntax/</loc>
+    <loc>https://bemohcine.github.io/guide/categories/syntax/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/themes/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/categories/themes/</loc>
+    <loc>https://bemohcine.github.io/guide/categories/themes/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/p/image-gallery/</loc>
+    <loc>https://bemohcine.github.io/guide/p/image-gallery/</loc>
     <lastmod>2023-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/p/shortcodes/</loc>
+    <loc>https://bemohcine.github.io/guide/p/shortcodes/</loc>
     <lastmod>2023-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/archives/</loc>
+    <loc>https://bemohcine.github.io/guide/archives/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/categories/example-category/</loc>
+    <loc>https://bemohcine.github.io/guide/categories/example-category/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/example-tag/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/example-tag/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/page/</loc>
+    <loc>https://bemohcine.github.io/guide/page/</loc>
     <lastmod>2022-03-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/privacy/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/p/rich-content/</loc>
+    <loc>https://bemohcine.github.io/guide/p/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/shortcodes/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/shortcodes/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/tags/emoji/</loc>
+    <loc>https://bemohcine.github.io/guide/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/p/emoji-support/</loc>
+    <loc>https://bemohcine.github.io/guide/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/categories/test/</loc>
+    <loc>https://bemohcine.github.io/guide/categories/test/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/about/</loc>
+    <loc>https://bemohcine.github.io/guide/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/links/</loc>
+    <loc>https://bemohcine.github.io/guide/links/</loc>
   </url><url>
-    <loc>https://bemohcine.github.io/BlogCine/search/</loc>
+    <loc>https://bemohcine.github.io/guide/search/</loc>
   </url>
 </urlset>
